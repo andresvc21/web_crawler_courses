@@ -1,0 +1,712 @@
+[
+  {
+    "title": "Genesys Cloud: Edge - Troubleshooting",
+    "slug": "genesys-cloud-edge-troubleshooting",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-edge-troubleshooting"
+  },
+  {
+    "title": "Genesys Cloud: Edge - BYOC Premises and Edge Introductory Concepts",
+    "slug": "genesys-cloud-edge-byoc-premises-and-edge-introductory-concepts",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-edge-byoc-premises-and-edge-introductory-concepts"
+  },
+  {
+    "title": "Genesys Cloud: API - Workforce Management",
+    "slug": "genesys-cloud-api-workforce-management",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-workforce-management"
+  },
+  {
+    "title": "Genesys Cloud: API - Real-Time Reporting",
+    "slug": "genesys-cloud-api-real-time-reporting",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-real-time-reporting"
+  },
+  {
+    "title": "Genesys Cloud: API - Quality Report Generation",
+    "slug": "genesys-cloud-api-quality-report-generation",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-quality-report-generation"
+  },
+  {
+    "title": "Genesys Cloud: API - Historical Report Generation",
+    "slug": "genesys-cloud-api-historical-report-generation",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-historical-report-generation"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Speech and Text Analytics - Voice and Digital Transcriptions",
+    "slug": "genesys-cloud-wem-speech-and-text-analytics-voice-and-digital-transcriptions",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-speech-and-text-analytics-voice-and-digital-transcriptions"
+  },
+  {
+    "title": "Genesys Cloud: API - Conversation Details",
+    "slug": "genesys-cloud-api-conversation-details",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-conversation-details"
+  },
+  {
+    "title": "Genesys Cloud: API - Authorization",
+    "slug": "genesys-cloud-api-authorization",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-authorization"
+  },
+  {
+    "title": "Genesys Cloud: Social Listening - Setup and Configuration",
+    "slug": "genesys-cloud-social-listening-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-social-listening-setup-and-configuration"
+  },
+  {
+    "title": "Genesys Cloud: Gamification Concepts",
+    "slug": "genesys-cloud-gamification-concepts",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-gamification-concepts"
+  },
+  {
+    "title": "Genesys Cloud: AI/Bots: Virtual Agent - Setup and Configuration",
+    "slug": "genesys-cloud-ai-bots-virtual-agent-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-ai-bots-virtual-agent-setup-and-configuration"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Supervisor AI for Quality Management",
+    "slug": "genesys-cloud-wem-supervisor-ai-for-quality-management",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-supervisor-ai-for-quality-management"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Supervisor AI for Speech and Text Analytics",
+    "slug": "genesys-cloud-wem-supervisor-ai-for-speech-and-text-analytics",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-supervisor-ai-for-speech-and-text-analytics"
+  },
+  {
+    "title": "Genesys Cloud: Introduction to CX as Code",
+    "slug": "genesys-cloud-introduction-to-cx-as-code",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-introduction-to-cx-as-code"
+  },
+  {
+    "title": "Genesys Cloud: Journey Management - Understanding Data Behind the Insights",
+    "slug": "genesys-cloud-journey-management-understanding-data-behind-the-insights",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-journey-management-understanding-data-behind-the-insights"
+  },
+  {
+    "title": "Genesys Cloud: AI Solutions for Customer Engagement",
+    "slug": "genesys-cloud-ai-solutions-for-customer-engagement",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-ai-solutions-for-customer-engagement"
+  },
+  {
+    "title": "Genesys Cloud: AI Solutions for Customer Self-Service",
+    "slug": "genesys-cloud-ai-solutions-for-customer-self-service",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-ai-solutions-for-customer-self-service"
+  },
+  {
+    "title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Sentiment Analysis",
+    "slug": "genesys-cloud-cx-wem-speech-and-text-analytics-sentiment-analysis",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-wem-speech-and-text-analytics-sentiment-analysis"
+  },
+  {
+    "title": "Genesys Cloud: API - Introduction to the Platform API",
+    "slug": "genesys-cloud-api-introduction-to-the-platform-api",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-introduction-to-the-platform-api"
+  },
+  {
+    "title": "Genesys Cloud: Contact Center Administrator - Data and Analytics",
+    "slug": "genesys-cloud-contact-center-administrator-data-and-analytics",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-contact-center-administrator-data-and-analytics"
+  },
+  {
+    "title": "Genesys Cloud CX: Coaching - Usage for Supervisors",
+    "slug": "genesys-cloud-cx-coaching-usage-for-supervisors",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-coaching-usage-for-supervisors"
+  },
+  {
+    "title": "Genesys Cloud: Coaching - Usage for Agents",
+    "slug": "genesys-cloud-coaching-usage-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-coaching-usage-for-agents"
+  },
+  {
+    "title": "Genesys Cloud: Coaching - Overview",
+    "slug": "genesys-cloud-coaching-overview",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-coaching-overview"
+  },
+  {
+    "title": "Genesys Cloud - QM Web Survey",
+    "slug": "genesys-cloud-qm-web-survey",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-qm-web-survey"
+  },
+  {
+    "title": "Genesys Cloud: Agentless Voice Notifications",
+    "slug": "genesys-cloud-agentless-voice-notifications",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-agentless-voice-notifications"
+  },
+  {
+    "title": "Genesys Cloud Integrations: Data Actions",
+    "slug": "genesys-cloud-integrations-data-actions",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integrations-data-actions"
+  },
+  {
+    "title": "Genesys Cloud: Contact Center Administrator - Data Actions",
+    "slug": "genesys-cloud-contact-center-administrator-data-actions",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-contact-center-administrator-data-actions"
+  },
+  {
+    "title": "Genesys Cloud: Contact Center Administrator - Outbound Dialing",
+    "slug": "genesys-cloud-contact-center-administrator-outbound-dialing",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-contact-center-administrator-outbound-dialing"
+  },
+  {
+    "title": "Genesys Cloud Integrations: Embedded Clients",
+    "slug": "genesys-cloud-integrations-embedded-clients",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integrations-embedded-clients"
+  },
+  {
+    "title": "Genesys Cloud Integrations: Custom Client Applications",
+    "slug": "genesys-cloud-integrations-custom-client-applications",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integrations-custom-client-applications"
+  },
+  {
+    "title": "Genesys Cloud Integrations: AppFoundry",
+    "slug": "genesys-cloud-integrations-appfoundry",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integrations-appfoundry"
+  },
+  {
+    "title": "Genesys Cloud Integrations: Integration Features",
+    "slug": "genesys-cloud-integrations-integration-features",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integrations-integration-features"
+  },
+  {
+    "title": "Genesys Cloud CX: WEM - Adding your Schedule to External Calendars",
+    "slug": "genesys-cloud-cx-wem-adding-your-schedule-to-external-calendars",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-wem-adding-your-schedule-to-external-calendars"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Shift Trades for Agents",
+    "slug": "genesys-cloud-wem-shift-trades-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-shift-trades-for-agents"
+  },
+  {
+    "title": "Genesys Cloud CX: WEM - Schedules for Agents",
+    "slug": "genesys-cloud-cx-wem-schedules-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-wem-schedules-for-agents"
+  },
+  {
+    "title": "Genesys Cloud: Web Messaging",
+    "slug": "genesys-cloud-web-messaging",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-web-messaging"
+  },
+  {
+    "title": "Genesys Cloud: Voice Additional Features for Agents",
+    "slug": "genesys-cloud-voice-additional-features-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-voice-additional-features-for-agents"
+  },
+  {
+    "title": "Genesys Cloud CX: Email for Agents",
+    "slug": "genesys-cloud-cx-email-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-email-for-agents"
+  },
+  {
+    "title": "Genesys Cloud: Cloud Media Services - Telephony Connection Options",
+    "slug": "genesys-cloud-cloud-media-services-telephony-connection-options",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cloud-media-services-telephony-connection-options"
+  },
+  {
+    "title": "Genesys Cloud CX: Campaign Tasks for Agents",
+    "slug": "genesys-cloud-cx-campaign-tasks-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-campaign-tasks-for-agents"
+  },
+  {
+    "title": "Genesys Cloud: Edge - Networking",
+    "slug": "genesys-cloud-edge-networking",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-edge-networking"
+  },
+  {
+    "title": "Genesys Cloud: Edge - BYOC Premise Configuration",
+    "slug": "genesys-cloud-edge-byoc-premise-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-edge-byoc-premise-configuration"
+  },
+  {
+    "title": "Genesys Cloud: Edge - How It Works",
+    "slug": "genesys-cloud-edge-how-it-works",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-edge-how-it-works"
+  },
+  {
+    "title": "Genesys Cloud: Edge - WebRTC",
+    "slug": "genesys-cloud-edge-webrtc",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-edge-webrtc"
+  },
+  {
+    "title": "Introduction to Genesys Cloud for Supervisors: Essentials",
+    "slug": "introduction-to-genesys-cloud-for-supervisors-essentials",
+    "url": "https://beyond.genesys.com/explore/course/introduction-to-genesys-cloud-for-supervisors-essentials"
+  },
+  {
+    "title": "Genesys Cloud Telephony",
+    "slug": "genesys-cloud-telephony",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-telephony"
+  },
+  {
+    "title": "Genesys Cloud Routing",
+    "slug": "genesys-cloud-routing",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-routing"
+  },
+  {
+    "title": "Genesys Cloud: Voice Essentials for Agents",
+    "slug": "genesys-cloud-voice-essentials-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-voice-essentials-for-agents"
+  },
+  {
+    "title": "Genesys Cloud CX: An Overview",
+    "slug": "genesys-cloud-cx-an-overview",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-an-overview"
+  },
+  {
+    "title": "Introduction to Genesys Cloud for Agents: Working Together",
+    "slug": "introduction-to-genesys-cloud-for-agents-working-together",
+    "url": "https://beyond.genesys.com/explore/course/introduction-to-genesys-cloud-for-agents-working-together"
+  },
+  {
+    "title": "Introduction to Genesys Cloud for Agents: The Basics",
+    "slug": "introduction-to-genesys-cloud-for-agents-the-basics",
+    "url": "https://beyond.genesys.com/explore/course/introduction-to-genesys-cloud-for-agents-the-basics"
+  },
+  {
+    "title": "Genesys Cloud: Edge - Survivability",
+    "slug": "genesys-cloud-edge-survivability",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-edge-survivability"
+  },
+  {
+    "title": "Genesys Cloud CX: Development and Feedback - Usage for Agents",
+    "slug": "genesys-cloud-cx-development-and-feedback-usage-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-development-and-feedback-usage-for-agents"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Development and Feedback - Usage for Supervisors",
+    "slug": "genesys-cloud-wem-development-and-feedback-usage-for-supervisors",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-development-and-feedback-usage-for-supervisors"
+  },
+  {
+    "title": "Genesys Cloud CX: WEM - Time Off for Agents",
+    "slug": "genesys-cloud-cx-wem-time-off-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-wem-time-off-for-agents"
+  },
+  {
+    "title": "Genesys Cloud CX: Performance Views for Agents",
+    "slug": "genesys-cloud-cx-performance-views-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-performance-views-for-agents"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Quality Management - Reviewing My Evaluations",
+    "slug": "genesys-cloud-wem-quality-management-reviewing-my-evaluations",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-quality-management-reviewing-my-evaluations"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Using Genesys Tempo Mobile Application",
+    "slug": "genesys-cloud-wem-using-genesys-tempo-mobile-application",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-using-genesys-tempo-mobile-application"
+  },
+  {
+    "title": "Genesys Cloud: API - User Management",
+    "slug": "genesys-cloud-api-user-management",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-user-management"
+  },
+  {
+    "title": "Genesys Cloud: API - Conversation Management",
+    "slug": "genesys-cloud-api-conversation-management",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-conversation-management"
+  },
+  {
+    "title": "Genesys Cloud: Contact Center Administrator - Scripting",
+    "slug": "genesys-cloud-contact-center-administrator-scripting",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-contact-center-administrator-scripting"
+  },
+  {
+    "title": "Genesys Cloud: Contact Center Administrator - ACD",
+    "slug": "genesys-cloud-contact-center-administrator-acd",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-contact-center-administrator-acd"
+  },
+  {
+    "title": "Genesys Cloud: Contact Center Administrator - Initial Configuration",
+    "slug": "genesys-cloud-contact-center-administrator-initial-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-contact-center-administrator-initial-configuration"
+  },
+  {
+    "title": "Genesys Cloud Performance Dashboards",
+    "slug": "genesys-cloud-performance-dashboards",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-performance-dashboards"
+  },
+  {
+    "title": "Introduction to Genesys Cloud for Supervisors: Additional Features",
+    "slug": "introduction-to-genesys-cloud-for-supervisors-additional-features",
+    "url": "https://beyond.genesys.com/explore/course/introduction-to-genesys-cloud-for-supervisors-additional-features"
+  },
+  {
+    "title": "Introduction to Genesys Cloud for Supervisors: Analytics and Reporting",
+    "slug": "introduction-to-genesys-cloud-for-supervisors-analytics-and-reporting",
+    "url": "https://beyond.genesys.com/explore/course/introduction-to-genesys-cloud-for-supervisors-analytics-and-reporting"
+  },
+  {
+    "title": "Genesys Cloud CX: AI - Predictive Engagement - Web Tracking for Developers",
+    "slug": "genesys-cloud-cx-ai-predictive-engagement-web-tracking-for-developers",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-predictive-engagement-web-tracking-for-developers"
+  },
+  {
+    "title": "Genesys Cloud CX: AI - Predictive Engagement - Setup and Configuration",
+    "slug": "genesys-cloud-cx-ai-predictive-engagement-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-predictive-engagement-setup-and-configuration"
+  },
+  {
+    "title": "Genesys Cloud CX: AI - Predictive Routing - Configuration",
+    "slug": "genesys-cloud-cx-ai-predictive-routing-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-predictive-routing-configuration"
+  },
+  {
+    "title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Topic Spotting",
+    "slug": "genesys-cloud-cx-wem-speech-and-text-analytics-topic-spotting",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-wem-speech-and-text-analytics-topic-spotting"
+  },
+  {
+    "title": "Genesys Cloud CX: AI - Predictive Routing - Getting Started",
+    "slug": "genesys-cloud-cx-ai-predictive-routing-getting-started",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-predictive-routing-getting-started"
+  },
+  {
+    "title": "Genesys Cloud CX: AI/Bots - Knowledge Workbench",
+    "slug": "genesys-cloud-cx-ai-bots-knowledge-workbench",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-bots-knowledge-workbench"
+  },
+  {
+    "title": "Genesys Cloud Contact Center Features",
+    "slug": "genesys-cloud-contact-center-features",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-contact-center-features"
+  },
+  {
+    "title": "Genesys Cloud Platform",
+    "slug": "genesys-cloud-platform",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-platform"
+  },
+  {
+    "title": "Genesys Cloud: API - License",
+    "slug": "genesys-cloud-api-license",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-license"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Voice Surveys",
+    "slug": "genesys-cloud-wem-voice-surveys",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-voice-surveys"
+  },
+  {
+    "title": "Genesys Cloud: Journey Management - Journey Analyzer - Building Charts",
+    "slug": "genesys-cloud-journey-management-journey-analyzer-building-charts",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-journey-management-journey-analyzer-building-charts"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Supervisor Activity View",
+    "slug": "genesys-cloud-wem-supervisor-activity-view",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-supervisor-activity-view"
+  },
+  {
+    "title": "Genesys Cloud CX: API - Speech and Text Analytics",
+    "slug": "genesys-cloud-cx-api-speech-and-text-analytics",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-api-speech-and-text-analytics"
+  },
+  {
+    "title": "Genesys Cloud CX: AI/Bots - Fundamentals",
+    "slug": "genesys-cloud-cx-ai-bots-fundamentals",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-bots-fundamentals"
+  },
+  {
+    "title": "Genesys Cloud CX: AI/Bots - Intent Miner",
+    "slug": "genesys-cloud-cx-ai-bots-intent-miner",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-bots-intent-miner"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Time-Off Management",
+    "slug": "genesys-cloud-wem-time-off-management",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-time-off-management"
+  },
+  {
+    "title": "Genesys Cloud: Cloud Media Services - Business Continuity",
+    "slug": "genesys-cloud-cloud-media-services-business-continuity",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cloud-media-services-business-continuity"
+  },
+  {
+    "title": "Genesys Cloud: Cloud Media Services - Purchase to Port",
+    "slug": "genesys-cloud-cloud-media-services-purchase-to-port",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cloud-media-services-purchase-to-port"
+  },
+  {
+    "title": "Genesys Cloud CX: Gamification",
+    "slug": "genesys-cloud-cx-gamification",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-gamification"
+  },
+  {
+    "title": "Genesys Cloud: Cloud Media Services - BYOC",
+    "slug": "genesys-cloud-cloud-media-services-byoc",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cloud-media-services-byoc"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Agent Activity View",
+    "slug": "genesys-cloud-wem-agent-activity-view",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-agent-activity-view"
+  },
+  {
+    "title": "Genesys Cloud CX: SMS Basics for Agents",
+    "slug": "genesys-cloud-cx-sms-basics-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-sms-basics-for-agents"
+  },
+  {
+    "title": "Genesys Cloud: AI/Bots - Knowledge Workbench - Knowledge Portal",
+    "slug": "genesys-cloud-ai-bots-knowledge-workbench-knowledge-portal",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-ai-bots-knowledge-workbench-knowledge-portal"
+  },
+  {
+    "title": "Genesys Cloud CX: AI/Bots - Knowledge Workbench - Knowledge Optimizer",
+    "slug": "genesys-cloud-cx-ai-bots-knowledge-workbench-knowledge-optimizer",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-bots-knowledge-workbench-knowledge-optimizer"
+  },
+  {
+    "title": "Genesys Cloud CX: AI/Bots - Agent Assist",
+    "slug": "genesys-cloud-cx-ai-bots-agent-assist",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-bots-agent-assist"
+  },
+  {
+    "title": "Genesys Cloud CX: AI - Predictive Engagement - Integrations for Developers",
+    "slug": "genesys-cloud-cx-ai-predictive-engagement-integrations-for-developers",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-predictive-engagement-integrations-for-developers"
+  },
+  {
+    "title": "Genesys Cloud CX: AI - Predictive Engagement - Reporting and Analytics",
+    "slug": "genesys-cloud-cx-ai-predictive-engagement-reporting-and-analytics",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-predictive-engagement-reporting-and-analytics"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Speech and Text Analytics - Getting Started",
+    "slug": "genesys-cloud-wem-speech-and-text-analytics-getting-started",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-speech-and-text-analytics-getting-started"
+  },
+  {
+    "title": "Genesys Cloud CX: AI - Predictive Engagement - Customer Journey for Agents",
+    "slug": "genesys-cloud-cx-ai-predictive-engagement-customer-journey-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-predictive-engagement-customer-journey-for-agents"
+  },
+  {
+    "title": "Genesys Cloud CX: AI - Predictive Engagement - Working with Action Maps",
+    "slug": "genesys-cloud-cx-ai-predictive-engagement-working-with-action-maps",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-predictive-engagement-working-with-action-maps"
+  },
+  {
+    "title": "Contact Center Metrics for Agents",
+    "slug": "contact-center-metrics-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/contact-center-metrics-for-agents"
+  },
+  {
+    "title": "Genesys Cloud CX: AI/Bots - Agent Assist for Agents",
+    "slug": "genesys-cloud-cx-ai-bots-agent-assist-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-bots-agent-assist-for-agents"
+  },
+  {
+    "title": "Genesys Cloud CX: AI/Bots - Digital Bot Flow Actions and Tasks",
+    "slug": "genesys-cloud-cx-ai-bots-digital-bot-flow-actions-and-tasks",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-bots-digital-bot-flow-actions-and-tasks"
+  },
+  {
+    "title": "Genesys Cloud CX: Messaging for Agents",
+    "slug": "genesys-cloud-cx-messaging-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-messaging-for-agents"
+  },
+  {
+    "title": "Genesys Cloud CX: Digital - Onboarding Guide",
+    "slug": "genesys-cloud-cx-digital-onboarding-guide",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-digital-onboarding-guide"
+  },
+  {
+    "title": "Genesys Cloud CX: Asynchronous Messaging for Retail",
+    "slug": "genesys-cloud-cx-asynchronous-messaging-for-retail",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-asynchronous-messaging-for-retail"
+  },
+  {
+    "title": "CX Cloud from Genesys and Salesforce - Initial Setup and Configuration",
+    "slug": "cx-cloud-from-genesys-and-salesforce-initial-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/cx-cloud-from-genesys-and-salesforce-initial-setup-and-configuration"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Speech and Text Analytics - Improving Transcription Accuracy",
+    "slug": "genesys-cloud-wem-speech-and-text-analytics-improving-transcription-accuracy",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-speech-and-text-analytics-improving-transcription-accuracy"
+  },
+  {
+    "title": "Genesys Cloud: AI - Agent Copilot - Agent Usage",
+    "slug": "genesys-cloud-ai-agent-copilot-agent-usage",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-ai-agent-copilot-agent-usage"
+  },
+  {
+    "title": "Genesys Cloud: AI - Agent Copilot - Setup and Configuration",
+    "slug": "genesys-cloud-ai-agent-copilot-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-ai-agent-copilot-setup-and-configuration"
+  },
+  {
+    "title": "Genesys Cloud: Journey Management - Getting Started Quickly",
+    "slug": "genesys-cloud-journey-management-getting-started-quickly",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-journey-management-getting-started-quickly"
+  },
+  {
+    "title": "Genesys Cloud: Journey Management - Journey Analyzer Filters and Connector Settings",
+    "slug": "genesys-cloud-journey-management-journey-analyzer-filters-and-connector-settings",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-journey-management-journey-analyzer-filters-and-connector-settings"
+  },
+  {
+    "title": "Genesys Cloud: AI - Predictive Routing - Performance Reports",
+    "slug": "genesys-cloud-ai-predictive-routing-performance-reports",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-ai-predictive-routing-performance-reports"
+  },
+  {
+    "title": "Genesys Cloud: WFM - Creating Forecasts",
+    "slug": "genesys-cloud-wfm-creating-forecasts",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wfm-creating-forecasts"
+  },
+  {
+    "title": "Genesys Cloud: Journey Management - Journey Analyzer",
+    "slug": "genesys-cloud-journey-management-journey-analyzer",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-journey-management-journey-analyzer"
+  },
+  {
+    "title": "Genesys Cloud: Architect - Journey Flows",
+    "slug": "genesys-cloud-architect-journey-flows",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-architect-journey-flows"
+  },
+  {
+    "title": "Genesys Cloud: WFM - Activity Codes and Work Plans",
+    "slug": "genesys-cloud-wfm-activity-codes-and-work-plans",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wfm-activity-codes-and-work-plans"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Speech and Text Analytics - Empathy Analysis",
+    "slug": "genesys-cloud-wem-speech-and-text-analytics-empathy-analysis",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-speech-and-text-analytics-empathy-analysis"
+  },
+  {
+    "title": "Genesys Cloud: WFM - Service Goal Templates and Planning Groups Configuration",
+    "slug": "genesys-cloud-wfm-service-goal-templates-and-planning-groups-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wfm-service-goal-templates-and-planning-groups-configuration"
+  },
+  {
+    "title": "Introduction to CX Cloud from Genesys and Salesforce - For Agents",
+    "slug": "introduction-to-cx-cloud-from-genesys-and-salesforce-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/introduction-to-cx-cloud-from-genesys-and-salesforce-for-agents"
+  },
+  {
+    "title": "Genesys Cloud: SMS Messaging",
+    "slug": "genesys-cloud-sms-messaging",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-sms-messaging"
+  },
+  {
+    "title": "Genesys Cloud: Work Automation - Supervisor and Agent Usage",
+    "slug": "genesys-cloud-work-automation-supervisor-and-agent-usage",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-work-automation-supervisor-and-agent-usage"
+  },
+  {
+    "title": "Genesys Cloud: Work Automation - Setup and Configuration",
+    "slug": "genesys-cloud-work-automation-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-work-automation-setup-and-configuration"
+  },
+  {
+    "title": "Genesys Cloud: WFM - Business Unit and Management Unit Configuration",
+    "slug": "genesys-cloud-wfm-business-unit-and-management-unit-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wfm-business-unit-and-management-unit-configuration"
+  },
+  {
+    "title": "Genesys Cloud: Quality Management - Evaluating Interactions",
+    "slug": "genesys-cloud-quality-management-evaluating-interactions",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-quality-management-evaluating-interactions"
+  },
+  {
+    "title": "Genesys Cloud: Quality Management Configuration",
+    "slug": "genesys-cloud-quality-management-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-quality-management-configuration"
+  },
+  {
+    "title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Business Analytics for Speech Data",
+    "slug": "genesys-cloud-cx-wem-speech-and-text-analytics-business-analytics-for-speech-data",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-wem-speech-and-text-analytics-business-analytics-for-speech-data"
+  },
+  {
+    "title": "Genesys Cloud: Quality Management - Basics",
+    "slug": "genesys-cloud-quality-management-basics",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-quality-management-basics"
+  },
+  {
+    "title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Topic Miner",
+    "slug": "genesys-cloud-cx-wem-speech-and-text-analytics-topic-miner",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-wem-speech-and-text-analytics-topic-miner"
+  },
+  {
+    "title": "Genesys Cloud CX: AI/Bots - Build a Digital Bot for Inbound Message Flows",
+    "slug": "genesys-cloud-cx-ai-bots-build-a-digital-bot-for-inbound-message-flows",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-cx-ai-bots-build-a-digital-bot-for-inbound-message-flows"
+  },
+  {
+    "title": "Contact Center Basics for Agents",
+    "slug": "contact-center-basics-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/contact-center-basics-for-agents"
+  },
+  {
+    "title": "The Agent's Role in the Contact Center",
+    "slug": "the-agents-role-in-the-contact-center",
+    "url": "https://beyond.genesys.com/explore/course/the-agents-role-in-the-contact-center"
+  },
+  {
+    "title": "Empathy Basics for Agents",
+    "slug": "empathy-basics-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/empathy-basics-for-agents"
+  },
+  {
+    "title": "Genesys Cloud: WEM - Performance Management with Scorecard Insights",
+    "slug": "genesys-cloud-wem-performance-management-with-scorecard-insights",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-performance-management-with-scorecard-insights"
+  },
+  {
+    "title": "Genesys Cloud: AI/Bots - Use Knowledge Workbench with Bots",
+    "slug": "genesys-cloud-ai-bots-use-knowledge-workbench-with-bots",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-ai-bots-use-knowledge-workbench-with-bots"
+  },
+  {
+    "title": "CX Cloud from Genesys and Salesforce: Beginner Guide for Agents",
+    "slug": "cx-cloud-from-genesys-and-salesforce-beginner-guide-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/cx-cloud-from-genesys-and-salesforce-beginner-guide-for-agents"
+  },
+  {
+    "title": "Genesys Cloud: Introduction to Workforce Management Configuration",
+    "slug": "genesys-cloud-introduction-to-workforce-management-configuration",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-introduction-to-workforce-management-configuration"
+  },
+  {
+    "title": "Genesys Cloud: Messaging Overview",
+    "slug": "genesys-cloud-messaging-overview",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-messaging-overview"
+  },
+  {
+    "title": "Genesys Cloud: AI/Bots - Bot Insights and Optimizations",
+    "slug": "genesys-cloud-ai-bots-bot-insights-and-optimizations",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-ai-bots-bot-insights-and-optimizations"
+  },
+  {
+    "title": "Genesys Cloud Work Automation - Business Value Overview",
+    "slug": "genesys-cloud-work-automation-business-value-overview",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-work-automation-business-value-overview"
+  },
+  {
+    "title": "Genesys Cloud: WFM - Monitoring and Adherence",
+    "slug": "genesys-cloud-wfm-monitoring-and-adherence",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wfm-monitoring-and-adherence"
+  },
+  {
+    "title": "Genesys Cloud: Journey Management for Contact Center Optimization",
+    "slug": "genesys-cloud-journey-management-for-contact-center-optimization",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-journey-management-for-contact-center-optimization"
+  },
+  {
+    "title": "Genesys Cloud: WFM - Creating Schedules",
+    "slug": "genesys-cloud-wfm-creating-schedules",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wfm-creating-schedules"
+  },
+  {
+    "title": "Genesys Cloud: AI - Agent Assist - Analytics and Best Practices",
+    "slug": "genesys-cloud-ai-agent-assist-analytics-and-best-practices",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-ai-agent-assist-analytics-and-best-practices"
+  },
+  {
+    "title": "Genesys Cloud: Architect - Flow Outcomes and Flow Milestones",
+    "slug": "genesys-cloud-architect-flow-outcomes-and-flow-milestones",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-architect-flow-outcomes-and-flow-milestones"
+  }
+]

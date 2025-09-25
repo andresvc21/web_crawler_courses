@@ -1,0 +1,43 @@
+{
+  "approach_1_webfetch": {
+    "method": "WebFetch with detailed prompts",
+    "description": "Use WebFetch API with comprehensive extraction prompts",
+    "sample_urls": [
+      "https://beyond.genesys.com/explore/course/edge-troubleshooting",
+      "https://beyond.genesys.com/explore/course/api-workforce-management",
+      "https://beyond.genesys.com/explore/course/social-listening-setup-and-configuration",
+      "https://beyond.genesys.com/explore/course/aibots-virtual-agent-setup-and-configuration",
+      "https://beyond.genesys.com/explore/course/gamification-concepts"
+    ],
+    "prompts": [
+      "Extract all available course information from this Genesys training page. Include: course title, description, duration, difficulty level, learning objectives, prerequisites, target audience, and any structured educational data. Look for JSON-LD, metadata, or embedded course catalog information.",
+      "Focus on finding the course duration, time commitment, or length. Search for patterns like '30 minutes', '1-2 hours', 'Duration:', 'Estimated time:', or any time-related information.",
+      "Extract the main course description, summary, or overview. Look for detailed explanations of what the course covers, learning outcomes, or educational objectives."
+    ]
+  },
+  "approach_2_api_discovery": {
+    "method": "API endpoint discovery",
+    "description": "Look for hidden API endpoints that serve course data",
+    "test_urls": [
+      "https://beyond.genesys.com/api/courses",
+      "https://beyond.genesys.com/api/explore/courses",
+      "https://beyond.genesys.com/api/v1/courses",
+      "https://beyond.genesys.com/api/catalog",
+      "https://beyond.genesys.com/explore/api/courses"
+    ]
+  },
+  "approach_3_pattern_analysis": {
+    "method": "URL pattern analysis for direct course data",
+    "description": "Test if course data is available through direct API calls",
+    "sample_patterns": [
+      "https://beyond.genesys.com/api/course/{slug}",
+      "https://beyond.genesys.com/api/explore/course/{slug}",
+      "https://beyond.genesys.com/data/course/{slug}.json"
+    ]
+  },
+  "approach_4_browser_automation": {
+    "method": "Browser automation with extended waits",
+    "description": "Use Selenium with longer wait times and specific element detection",
+    "requirements": "Fix Chrome driver architecture issue or use alternative browser"
+  }
+}

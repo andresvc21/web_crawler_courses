@@ -1,0 +1,30 @@
+{
+  "test_date": "2025-09-24T15:53:01.715999",
+  "total_tested": 3,
+  "results": [
+    {
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-edge-troubleshooting",
+      "page_length": 242051,
+      "title": "Genesys Cloud: Edge - Troubleshooting",
+      "description": "",
+      "duration": "",
+      "level": ""
+    },
+    {
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-workforce-management",
+      "page_length": 241244,
+      "title": "Genesys Cloud: API - Workforce Management",
+      "description": "",
+      "duration": "",
+      "level": ""
+    },
+    {
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-social-listening-setup-and-configuration",
+      "page_length": 241974,
+      "title": "Genesys Cloud: Social Listening - Setup and Configuration",
+      "description": "",
+      "duration": "",
+      "level": ""
+    }
+  ]
+}

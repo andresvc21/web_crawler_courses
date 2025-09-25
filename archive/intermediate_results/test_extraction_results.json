@@ -1,0 +1,116 @@
+{
+  "extraction_date": "2025-09-24T18:13:09.459150",
+  "total_courses": 9,
+  "successful_extractions": 9,
+  "success_rate": "100.0%",
+  "courses": [
+    {
+      "title": "Genesys Cloud: Edge - Troubleshooting",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-edge-troubleshooting",
+      "page_length": 242028,
+      "extracted_title": "",
+      "description": "Genesys Cloud Edge is a telephony server that handles media processing, SIP, and telephony services by combining a powerful media server, SIP registrar, and SIP proxy into a single survivable appliance. There are times when troubleshooting is required to maintain the functionality of the Edge device(s) that service Genesys Cloud. Genesys Cloud: Edge – Troubleshooting eLearning explores the following concepts: Gathering and filtering logs, troubleshooting tools, SIP analysis, and common troublesh",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "extraction_timestamp": "2025-09-24T18:10:04.415086"
+    },
+    {
+      "title": "Genesys Cloud: Edge - BYOC Premises and Edge Introductory Concepts",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-edge-byoc-premises-and-edge-introductory-concepts",
+      "page_length": 241933,
+      "extracted_title": "",
+      "description": "Genesys Cloud: Edge - BYOC Premises and Edge Introductory Concepts eLearning provides an introductory overview into the three telephony deployments offered in Genesys Cloud.  The following learning will explore: Telephony options - Genesys Cloud Voice, Bring Your Own Carrier (BYOC) Cloud, Bring Your Own Carrier (BYOC) Premises, Edge model availability and considerations, and PSTN resource needs.",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "extraction_timestamp": "2025-09-24T18:10:23.970806"
+    },
+    {
+      "title": "Genesys Cloud: API - Real-Time Reporting",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-real-time-reporting",
+      "page_length": 241462,
+      "extracted_title": "",
+      "description": "Genesys Cloud: API – Real-Time Reporting eLearning provides an overview of analytic APIs used in Genesys Cloud.  This course describes which APIs are available to build real-time reports, how to interact with instantaneous API endpoints, and how to use notification APIs with client applications.",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "extraction_timestamp": "2025-09-24T18:11:03.724440"
+    },
+    {
+      "title": "Genesys Cloud: API - Quality Report Generation",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-quality-report-generation",
+      "page_length": 241698,
+      "extracted_title": "",
+      "description": "Genesys Cloud: API- Quality Report Generation eLearning provides an overview of the quality management endpoints in Genesys Cloud. Quality management endpoint helps to evaluate agents and interactions to improve the overall quality of the contact center experience. The following eLearning provides insight about Evaluation and Survey APIs with examples. It also introduces you to the usage of filters to aid in querying the survey or evaluation data.",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "extraction_timestamp": "2025-09-24T18:11:23.845113"
+    },
+    {
+      "title": "Genesys Cloud: API - Historical Report Generation",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-historical-report-generation",
+      "page_length": 241457,
+      "extracted_title": "",
+      "description": "Genesys Cloud: API - Historical Report Generation eLearning provides an overview to the concepts related to the variety of analytic APIs available to use with Genesys Cloud. The eLearning course guides users through the analytics overview, while also exploring how to use the aggregated APIs and detail record APIs to extract data from the environment.",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "extraction_timestamp": "2025-09-24T18:11:44.661612"
+    },
+    {
+      "title": "Genesys Cloud: WEM - Speech and Text Analytics - Voice and Digital Transcriptions",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-wem-speech-and-text-analytics-voice-and-digital-transcriptions",
+      "page_length": 243981,
+      "extracted_title": "Genesys Cloud: WEM - Speech and Text Analytics – Voice and Digital Transcriptions",
+      "description": "Genesys Cloud: WEM - Speech and Text Analytics – Voice and Digital Transcriptions eLearning course explains implementation of voice and digital transcriptions and its usage in detail. Transcription is a critical feature of Speech and Text Analytics. The voice and digital interactions are automatically transcribed for non-linguistic analysis to create meaning from otherwise unstructured data.",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "extraction_timestamp": "2025-09-24T18:12:04.682524"
+    },
+    {
+      "title": "Genesys Cloud: API - Conversation Details",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-conversation-details",
+      "page_length": 241105,
+      "extracted_title": "",
+      "description": "Genesys Cloud: API - Conversation Details eLearning provides an overview of the term conversation in Genesys Cloud by exploring the conversation structure to properly analyze the JSON responses received from Genesys Cloud.",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "extraction_timestamp": "2025-09-24T18:12:24.502986"
+    },
+    {
+      "title": "Genesys Cloud: API - Authorization",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-authorization",
+      "page_length": 241476,
+      "extracted_title": "",
+      "description": "Genesys Cloud: API - Authorization eLearning provides an overview of what authorization means when communicating with the Genesys Cloud Platform APIs. The course walks users through the OAuth 2 framework used by Genesys Cloud and describes how different methods of authorization are used to grant applications permission to communicate with Genesys Cloud.",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "extraction_timestamp": "2025-09-24T18:12:43.538614"
+    },
+    {
+      "title": "Genesys Cloud: Social Listening - Setup and Configuration",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-social-listening-setup-and-configuration",
+      "page_length": 241951,
+      "extracted_title": "",
+      "description": "This course introduces the foundational concepts of the Genesys Cloud Social feature. You will learn how to integrate Genesys Cloud with social media platforms and interpret social posts based on the listening rules you configure.",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "extraction_timestamp": "2025-09-24T18:13:03.306390"
+    }
+  ]
+}

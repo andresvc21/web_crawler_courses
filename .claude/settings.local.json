@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:beyond.genesys.com)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(reg query:*)",
+      "Bash(powershell:*)",
+      "Bash(find:*)",
+      "Bash(timeout:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

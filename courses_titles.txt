@@ -1,0 +1,142 @@
+Genesys Cloud: Edge - Troubleshooting
+Genesys Cloud: Edge - BYOC Premises and Edge Introductory Concepts
+Genesys Cloud: API - Workforce Management
+Genesys Cloud: API - Real-Time Reporting
+Genesys Cloud: API - Quality Report Generation
+Genesys Cloud: API - Historical Report Generation
+Genesys Cloud: WEM - Speech and Text Analytics - Voice and Digital Transcriptions
+Genesys Cloud: API - Conversation Details
+Genesys Cloud: API - Authorization
+Genesys Cloud: Social Listening - Setup and Configuration
+Genesys Cloud: Gamification Concepts
+Genesys Cloud: AI/Bots: Virtual Agent - Setup and Configuration
+Genesys Cloud: WEM - Supervisor AI for Quality Management
+Genesys Cloud: WEM - Supervisor AI for Speech and Text Analytics
+Genesys Cloud: Introduction to CX as Code
+Genesys Cloud: Journey Management - Understanding Data Behind the Insights
+Genesys Cloud: AI Solutions for Customer Engagement
+Genesys Cloud: AI Solutions for Customer Self-Service
+Genesys Cloud CX: WEM - Speech and Text Analytics - Sentiment Analysis
+Genesys Cloud: API - Introduction to the Platform API
+Genesys Cloud: Contact Center Administrator - Data and Analytics
+Genesys Cloud CX: Coaching - Usage for Supervisors
+Genesys Cloud: Coaching - Usage for Agents
+Genesys Cloud: Coaching - Overview
+Genesys Cloud - QM Web Survey
+Genesys Cloud: Agentless Voice Notifications
+Genesys Cloud Integrations: Data Actions
+Genesys Cloud: Contact Center Administrator - Data Actions
+Genesys Cloud: Contact Center Administrator - Outbound Dialing
+Genesys Cloud Integrations: Embedded Clients
+Genesys Cloud Integrations: Custom Client Applications
+Genesys Cloud Integrations: AppFoundry
+Genesys Cloud Integrations: Integration Features
+Genesys Cloud CX: WEM - Adding your Schedule to External Calendars
+Genesys Cloud: WEM - Shift Trades for Agents
+Genesys Cloud CX: WEM - Schedules for Agents
+Genesys Cloud: Web Messaging
+Genesys Cloud: Voice Additional Features for Agents
+Genesys Cloud CX: Email for Agents
+Genesys Cloud: Cloud Media Services - Telephony Connection Options
+Genesys Cloud CX: Campaign Tasks for Agents
+Genesys Cloud: Edge - Networking
+Genesys Cloud: Edge - BYOC Premise Configuration
+Genesys Cloud: Edge - How It Works
+Genesys Cloud: Edge - WebRTC
+Introduction to Genesys Cloud for Supervisors: Essentials
+Genesys Cloud Telephony
+Genesys Cloud Routing
+Genesys Cloud: Voice Essentials for Agents
+Genesys Cloud CX: An Overview
+Introduction to Genesys Cloud for Agents: Working Together
+Introduction to Genesys Cloud for Agents: The Basics
+Genesys Cloud: Edge - Survivability
+Genesys Cloud CX: Development and Feedback - Usage for Agents
+Genesys Cloud: WEM - Development and Feedback - Usage for Supervisors
+Genesys Cloud CX: WEM - Time Off for Agents
+Genesys Cloud CX: Performance Views for Agents
+Genesys Cloud: WEM - Quality Management - Reviewing My Evaluations
+Genesys Cloud: WEM - Using Genesys Tempo Mobile Application
+Genesys Cloud: API - User Management
+Genesys Cloud: API - Conversation Management
+Genesys Cloud: Contact Center Administrator - Scripting
+Genesys Cloud: Contact Center Administrator - ACD
+Genesys Cloud: Contact Center Administrator - Initial Configuration
+Genesys Cloud Performance Dashboards
+Introduction to Genesys Cloud for Supervisors: Additional Features
+Introduction to Genesys Cloud for Supervisors: Analytics and Reporting
+Genesys Cloud CX: AI - Predictive Engagement - Web Tracking for Developers
+Genesys Cloud CX: AI - Predictive Engagement - Setup and Configuration
+Genesys Cloud CX: AI - Predictive Routing - Configuration
+Genesys Cloud CX: WEM - Speech and Text Analytics - Topic Spotting
+Genesys Cloud CX: AI - Predictive Routing - Getting Started
+Genesys Cloud CX: AI/Bots - Knowledge Workbench
+Genesys Cloud Contact Center Features
+Genesys Cloud Platform
+Genesys Cloud: API - License
+Genesys Cloud: WEM - Voice Surveys
+Genesys Cloud: Journey Management - Journey Analyzer - Building Charts
+Genesys Cloud: WEM - Supervisor Activity View
+Genesys Cloud CX: API - Speech and Text Analytics
+Genesys Cloud CX: AI/Bots - Fundamentals
+Genesys Cloud CX: AI/Bots - Intent Miner
+Genesys Cloud: WEM - Time-Off Management
+Genesys Cloud: Cloud Media Services - Business Continuity
+Genesys Cloud: Cloud Media Services - Purchase to Port
+Genesys Cloud CX: Gamification
+Genesys Cloud: Cloud Media Services - BYOC
+Genesys Cloud: WEM - Agent Activity View
+Genesys Cloud CX: SMS Basics for Agents
+Genesys Cloud: AI/Bots - Knowledge Workbench - Knowledge Portal
+Genesys Cloud CX: AI/Bots - Knowledge Workbench - Knowledge Optimizer
+Genesys Cloud CX: AI/Bots - Agent Assist
+Genesys Cloud CX: AI - Predictive Engagement - Integrations for Developers
+Genesys Cloud CX: AI - Predictive Engagement - Reporting and Analytics
+Genesys Cloud: WEM - Speech and Text Analytics - Getting Started
+Genesys Cloud CX: AI - Predictive Engagement - Customer Journey for Agents
+Genesys Cloud CX: AI - Predictive Engagement - Working with Action Maps
+Contact Center Metrics for Agents
+Genesys Cloud CX: AI/Bots - Agent Assist for Agents
+Genesys Cloud CX: AI/Bots - Digital Bot Flow Actions and Tasks
+Genesys Cloud CX: Messaging for Agents
+Genesys Cloud CX: Digital - Onboarding Guide
+Genesys Cloud CX: Asynchronous Messaging for Retail
+CX Cloud from Genesys and Salesforce - Initial Setup and Configuration
+Genesys Cloud: WEM - Speech and Text Analytics - Improving Transcription Accuracy
+Genesys Cloud: AI - Agent Copilot - Agent Usage
+Genesys Cloud: AI - Agent Copilot - Setup and Configuration
+Genesys Cloud: Journey Management - Getting Started Quickly
+Genesys Cloud: Journey Management - Journey Analyzer Filters and Connector Settings
+Genesys Cloud: AI - Predictive Routing - Performance Reports
+Genesys Cloud: WFM - Creating Forecasts
+Genesys Cloud: Journey Management - Journey Analyzer
+Genesys Cloud: Architect - Journey Flows
+Genesys Cloud: WFM - Activity Codes and Work Plans
+Genesys Cloud: WEM - Speech and Text Analytics - Empathy Analysis
+Genesys Cloud: WFM - Service Goal Templates and Planning Groups Configuration
+Introduction to CX Cloud from Genesys and Salesforce - For Agents
+Genesys Cloud: SMS Messaging
+Genesys Cloud: Work Automation - Supervisor and Agent Usage
+Genesys Cloud: Work Automation - Setup and Configuration
+Genesys Cloud: WFM - Business Unit and Management Unit Configuration
+Genesys Cloud: Quality Management - Evaluating Interactions
+Genesys Cloud: Quality Management Configuration
+Genesys Cloud CX: WEM - Speech and Text Analytics - Business Analytics for Speech Data
+Genesys Cloud: Quality Management - Basics
+Genesys Cloud CX: WEM - Speech and Text Analytics - Topic Miner
+Genesys Cloud CX: AI/Bots - Build a Digital Bot for Inbound Message Flows
+Contact Center Basics for Agents
+The Agent's Role in the Contact Center
+Empathy Basics for Agents
+Genesys Cloud: WEM - Performance Management with Scorecard Insights
+Genesys Cloud: AI/Bots - Use Knowledge Workbench with Bots
+CX Cloud from Genesys and Salesforce: Beginner Guide for Agents
+Genesys Cloud: Introduction to Workforce Management Configuration
+Genesys Cloud: Messaging Overview
+Genesys Cloud: AI/Bots - Bot Insights and Optimizations
+Genesys Cloud Work Automation - Business Value Overview
+Genesys Cloud: WFM - Monitoring and Adherence
+Genesys Cloud: Journey Management for Contact Center Optimization
+Genesys Cloud: WFM - Creating Schedules
+Genesys Cloud: AI - Agent Assist - Analytics and Best Practices
+Genesys Cloud: Architect - Flow Outcomes and Flow Milestones

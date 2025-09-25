@@ -1,0 +1,35 @@
+{
+  "method": "WebFetch API calls",
+  "courses_to_test": [
+    {
+      "title": "Genesys Cloud: Edge - Troubleshooting",
+      "url": "https://beyond.genesys.com/explore/course/edge-troubleshooting",
+      "slug": "edge-troubleshooting"
+    },
+    {
+      "title": "Genesys Cloud: Edge - BYOC Premises and Edge Introductory Concepts",
+      "url": "https://beyond.genesys.com/explore/course/edge-byoc-premises-and-edge-introductory-concepts",
+      "slug": "edge-byoc-premises-and-edge-introductory-concepts"
+    },
+    {
+      "title": "Genesys Cloud: API - Workforce Management",
+      "url": "https://beyond.genesys.com/explore/course/api-workforce-management",
+      "slug": "api-workforce-management"
+    },
+    {
+      "title": "Genesys Cloud: API - Real-Time Reporting",
+      "url": "https://beyond.genesys.com/explore/course/api-real-time-reporting",
+      "slug": "api-real-time-reporting"
+    },
+    {
+      "title": "Genesys Cloud: API - Quality Report Generation",
+      "url": "https://beyond.genesys.com/explore/course/api-quality-report-generation",
+      "slug": "api-quality-report-generation"
+    }
+  ],
+  "extraction_prompts": {
+    "detailed_course_info": "Extract comprehensive course information including: course title, detailed description, duration/length, difficulty level, learning objectives, prerequisites, target audience, and any other educational metadata. Look for any structured data, JSON-LD, or course catalog information embedded in the page.",
+    "duration_focused": "Focus specifically on finding the course duration, length, or time commitment. Look for patterns like '30 minutes', '1 hour', 'Duration:', 'Time:', or similar time indicators anywhere in the content.",
+    "description_focused": "Extract the main course description, overview, summary, or learning objectives. Look for structured course information, educational content descriptions, or any text that explains what the course covers."
+  }
+}

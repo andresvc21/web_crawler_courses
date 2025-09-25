@@ -1,0 +1,124 @@
+{
+  "discovery_date": "2025-09-24 13:22:50",
+  "general_endpoints": [
+    {
+      "url": "https://beyond.genesys.com/api/explore/courses",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 2: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/courses",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 2: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/v1/courses",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 2: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/catalog",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 2: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/search",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 2: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/explore/api/courses",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 2: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/explore/api/search",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 2: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/content/courses",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 2: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/beyond/api/courses",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 2: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/training/courses",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 2: character maps to <undefined>"
+    }
+  ],
+  "course_specific_endpoints": [
+    {
+      "url": "https://beyond.genesys.com/api/course/edge-troubleshooting",
+      "course_slug": "edge-troubleshooting",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/explore/course/edge-troubleshooting",
+      "course_slug": "edge-troubleshooting",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/courses/edge-troubleshooting",
+      "course_slug": "edge-troubleshooting",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/explore/api/course/edge-troubleshooting",
+      "course_slug": "edge-troubleshooting",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/content/course/edge-troubleshooting",
+      "course_slug": "edge-troubleshooting",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/course/gamification-concepts",
+      "course_slug": "gamification-concepts",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/explore/course/gamification-concepts",
+      "course_slug": "gamification-concepts",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/courses/gamification-concepts",
+      "course_slug": "gamification-concepts",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/explore/api/course/gamification-concepts",
+      "course_slug": "gamification-concepts",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/content/course/gamification-concepts",
+      "course_slug": "gamification-concepts",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/course/api-workforce-management",
+      "course_slug": "api-workforce-management",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/explore/course/api-workforce-management",
+      "course_slug": "api-workforce-management",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/courses/api-workforce-management",
+      "course_slug": "api-workforce-management",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/explore/api/course/api-workforce-management",
+      "course_slug": "api-workforce-management",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    },
+    {
+      "url": "https://beyond.genesys.com/api/content/course/api-workforce-management",
+      "course_slug": "api-workforce-management",
+      "error": "'charmap' codec can't encode character '\\u2713' in position 4: character maps to <undefined>"
+    }
+  ],
+  "successful_endpoints": [],
+  "search_results": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://beyond.genesys.com/api/explore/courses",
+    "status": 200,
+    "content_type": "text/html",
+    "length": 11856,
+    "success": true,
+    "text_sample": "<!DOCTYPE html><html lang=\"en\"><head>\n    <meta charset=\"utf-8\">\n    <title>Education</title>\n    <!--META SEO OPEN GRAPH PROPERTIES-->\n    <meta property=\"og:type\" content=\"website\">\n    <meta proper"
+  },
+  {
+    "url": "https://beyond.genesys.com/api/course/edge-troubleshooting",
+    "status": 200,
+    "content_type": "text/html",
+    "length": 11856,
+    "success": true,
+    "text_sample": "<!DOCTYPE html><html lang=\"en\"><head>\n    <meta charset=\"utf-8\">\n    <title>Education</title>\n    <!--META SEO OPEN GRAPH PROPERTIES-->\n    <meta property=\"og:type\" content=\"website\">\n    <meta proper"
+  },
+  {
+    "url": "https://beyond.genesys.com/explore/api/search?s=&p=1",
+    "status": 200,
+    "content_type": "text/html",
+    "length": 11856,
+    "success": true,
+    "text_sample": "<!DOCTYPE html><html lang=\"en\"><head>\n    <meta charset=\"utf-8\">\n    <title>Education</title>\n    <!--META SEO OPEN GRAPH PROPERTIES-->\n    <meta property=\"og:type\" content=\"website\">\n    <meta proper"
+  }
+]

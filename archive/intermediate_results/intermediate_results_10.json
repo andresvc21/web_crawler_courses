@@ -1,0 +1,194 @@
+[
+  {
+    "original_title": "Genesys Cloud: Edge - Troubleshooting",
+    "course_number": 1,
+    "slug": "edge-troubleshooting",
+    "url": "https://beyond.genesys.com/explore/course/edge-troubleshooting",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "edge-troubleshooting"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Edge - BYOC Premises and Edge Introductory Concepts",
+    "course_number": 2,
+    "slug": "edge-byoc-premises-and-edge-introductory-concepts",
+    "url": "https://beyond.genesys.com/explore/course/edge-byoc-premises-and-edge-introductory-concepts",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "edge-byoc-premises-and-edge-introductory-concepts"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Workforce Management",
+    "course_number": 3,
+    "slug": "api-workforce-management",
+    "url": "https://beyond.genesys.com/explore/course/api-workforce-management",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-workforce-management",
+      "api-workforce-mgmt"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Real-Time Reporting",
+    "course_number": 4,
+    "slug": "api-real-time-reporting",
+    "url": "https://beyond.genesys.com/explore/course/api-real-time-reporting",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-real-time-reporting"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Quality Report Generation",
+    "course_number": 5,
+    "slug": "api-quality-report-generation",
+    "url": "https://beyond.genesys.com/explore/course/api-quality-report-generation",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-quality-report-generation"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Historical Report Generation",
+    "course_number": 6,
+    "slug": "api-historical-report-generation",
+    "url": "https://beyond.genesys.com/explore/course/api-historical-report-generation",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-historical-report-generation"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Speech and Text Analytics - Voice and Digital Transcriptions",
+    "course_number": 7,
+    "slug": "wem-speech-and-text-analytics-voice-and-digital-transcriptions",
+    "url": "https://beyond.genesys.com/explore/course/wem-speech-and-text-analytics-voice-and-digital-transcriptions",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-speech-and-text-analytics-voice-and-digital-transcriptions"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Conversation Details",
+    "course_number": 8,
+    "slug": "api-conversation-details",
+    "url": "https://beyond.genesys.com/explore/course/api-conversation-details",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-conversation-details"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Authorization",
+    "course_number": 9,
+    "slug": "api-authorization",
+    "url": "https://beyond.genesys.com/explore/course/api-authorization",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-authorization"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Social Listening - Setup and Configuration",
+    "course_number": 10,
+    "slug": "social-listening-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/social-listening-setup-and-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "social-listening-setup-and-configuration",
+      "social-listening-setup-and-config"
+    ]
+  }
+]

@@ -1,0 +1,2721 @@
+[
+  {
+    "original_title": "Genesys Cloud: Edge - Troubleshooting",
+    "course_number": 1,
+    "slug": "edge-troubleshooting",
+    "url": "https://beyond.genesys.com/explore/course/edge-troubleshooting",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "edge-troubleshooting"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Edge - BYOC Premises and Edge Introductory Concepts",
+    "course_number": 2,
+    "slug": "edge-byoc-premises-and-edge-introductory-concepts",
+    "url": "https://beyond.genesys.com/explore/course/edge-byoc-premises-and-edge-introductory-concepts",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "edge-byoc-premises-and-edge-introductory-concepts"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Workforce Management",
+    "course_number": 3,
+    "slug": "api-workforce-management",
+    "url": "https://beyond.genesys.com/explore/course/api-workforce-management",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-workforce-management",
+      "api-workforce-mgmt"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Real-Time Reporting",
+    "course_number": 4,
+    "slug": "api-real-time-reporting",
+    "url": "https://beyond.genesys.com/explore/course/api-real-time-reporting",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-real-time-reporting"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Quality Report Generation",
+    "course_number": 5,
+    "slug": "api-quality-report-generation",
+    "url": "https://beyond.genesys.com/explore/course/api-quality-report-generation",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-quality-report-generation"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Historical Report Generation",
+    "course_number": 6,
+    "slug": "api-historical-report-generation",
+    "url": "https://beyond.genesys.com/explore/course/api-historical-report-generation",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-historical-report-generation"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Speech and Text Analytics - Voice and Digital Transcriptions",
+    "course_number": 7,
+    "slug": "wem-speech-and-text-analytics-voice-and-digital-transcriptions",
+    "url": "https://beyond.genesys.com/explore/course/wem-speech-and-text-analytics-voice-and-digital-transcriptions",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-speech-and-text-analytics-voice-and-digital-transcriptions"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Conversation Details",
+    "course_number": 8,
+    "slug": "api-conversation-details",
+    "url": "https://beyond.genesys.com/explore/course/api-conversation-details",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-conversation-details"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Authorization",
+    "course_number": 9,
+    "slug": "api-authorization",
+    "url": "https://beyond.genesys.com/explore/course/api-authorization",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-authorization"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Social Listening - Setup and Configuration",
+    "course_number": 10,
+    "slug": "social-listening-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/social-listening-setup-and-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "social-listening-setup-and-configuration",
+      "social-listening-setup-and-config"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Gamification Concepts",
+    "course_number": 11,
+    "slug": "gamification-concepts",
+    "url": "https://beyond.genesys.com/explore/course/gamification-concepts",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "gamification-concepts"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: AI/Bots: Virtual Agent - Setup and Configuration",
+    "course_number": 12,
+    "slug": "aibots-virtual-agent-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/aibots-virtual-agent-setup-and-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-virtual-agent-setup-and-configuration",
+      "aibots-virtual-agent-setup-and-config"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Supervisor AI for Quality Management",
+    "course_number": 13,
+    "slug": "wem-supervisor-ai-for-quality-management",
+    "url": "https://beyond.genesys.com/explore/course/wem-supervisor-ai-for-quality-management",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-supervisor-ai-for-quality-management",
+      "wem-supervisor-ai-for-quality-mgmt",
+      "wem-sup-ai-for-quality-management"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Supervisor AI for Speech and Text Analytics",
+    "course_number": 14,
+    "slug": "wem-supervisor-ai-for-speech-and-text-analytics",
+    "url": "https://beyond.genesys.com/explore/course/wem-supervisor-ai-for-speech-and-text-analytics",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-supervisor-ai-for-speech-and-text-analytics",
+      "wem-sup-ai-for-speech-and-text-analytics"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Introduction to CX as Code",
+    "course_number": 15,
+    "slug": "cx-as-code",
+    "url": "https://beyond.genesys.com/explore/course/cx-as-code",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "cx-as-code"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Journey Management - Understanding Data Behind the Insights",
+    "course_number": 16,
+    "slug": "journey-management-understanding-data-behind-the-insights",
+    "url": "https://beyond.genesys.com/explore/course/journey-management-understanding-data-behind-the-insights",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "journey-management-understanding-data-behind-the-insights",
+      "journey-mgmt-understanding-data-behind-the-insights"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: AI Solutions for Customer Engagement",
+    "course_number": 17,
+    "slug": "ai-solutions-for-customer-engagement",
+    "url": "https://beyond.genesys.com/explore/course/ai-solutions-for-customer-engagement",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-solutions-for-customer-engagement"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: AI Solutions for Customer Self-Service",
+    "course_number": 18,
+    "slug": "ai-solutions-for-customer-self-service",
+    "url": "https://beyond.genesys.com/explore/course/ai-solutions-for-customer-self-service",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-solutions-for-customer-self-service"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Sentiment Analysis",
+    "course_number": 19,
+    "slug": "wem-speech-and-text-analytics-sentiment-analysis",
+    "url": "https://beyond.genesys.com/explore/course/wem-speech-and-text-analytics-sentiment-analysis",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-speech-and-text-analytics-sentiment-analysis"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Introduction to the Platform API",
+    "course_number": 20,
+    "slug": "api-the-platform-api",
+    "url": "https://beyond.genesys.com/explore/course/api-the-platform-api",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-the-platform-api"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Contact Center Administrator - Data and Analytics",
+    "course_number": 21,
+    "slug": "contact-center-administrator-data-and-analytics",
+    "url": "https://beyond.genesys.com/explore/course/contact-center-administrator-data-and-analytics",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "contact-center-administrator-data-and-analytics"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: Coaching - Usage for Supervisors",
+    "course_number": 22,
+    "slug": "coaching-usage-for-supervisors",
+    "url": "https://beyond.genesys.com/explore/course/coaching-usage-for-supervisors",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "coaching-usage-for-supervisors",
+      "coaching-usage-for-sups"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Coaching - Usage for Agents",
+    "course_number": 23,
+    "slug": "coaching-usage-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/coaching-usage-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "coaching-usage-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Coaching - Overview",
+    "course_number": 24,
+    "slug": "coaching-overview",
+    "url": "https://beyond.genesys.com/explore/course/coaching-overview",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "coaching-overview"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud - QM Web Survey",
+    "course_number": 25,
+    "slug": "genesys-cloud-qm-web-survey",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-qm-web-survey",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-qm-web-survey",
+      "qm-web-survey"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Agentless Voice Notifications",
+    "course_number": 26,
+    "slug": "agentless-voice-notifications",
+    "url": "https://beyond.genesys.com/explore/course/agentless-voice-notifications",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "agentless-voice-notifications"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Integrations: Data Actions",
+    "course_number": 27,
+    "slug": "genesys-cloud-integrations-data-actions",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integrations-data-actions",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-integrations-data-actions",
+      "integrations-data-actions"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Contact Center Administrator - Data Actions",
+    "course_number": 28,
+    "slug": "contact-center-administrator-data-actions",
+    "url": "https://beyond.genesys.com/explore/course/contact-center-administrator-data-actions",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "contact-center-administrator-data-actions"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Contact Center Administrator - Outbound Dialing",
+    "course_number": 29,
+    "slug": "contact-center-administrator-outbound-dialing",
+    "url": "https://beyond.genesys.com/explore/course/contact-center-administrator-outbound-dialing",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "contact-center-administrator-outbound-dialing"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Integrations: Embedded Clients",
+    "course_number": 30,
+    "slug": "genesys-cloud-integrations-embedded-clients",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integrations-embedded-clients",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-integrations-embedded-clients",
+      "integrations-embedded-clients"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Integrations: Custom Client Applications",
+    "course_number": 31,
+    "slug": "genesys-cloud-integrations-custom-client-applications",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integrations-custom-client-applications",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-integrations-custom-client-applications",
+      "integrations-custom-client-applications"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Integrations: AppFoundry",
+    "course_number": 32,
+    "slug": "genesys-cloud-integrations-appfoundry",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integrations-appfoundry",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-integrations-appfoundry",
+      "integrations-appfoundry"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Integrations: Integration Features",
+    "course_number": 33,
+    "slug": "genesys-cloud-integrations-integration-features",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integrations-integration-features",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-integrations-integration-features",
+      "integrations-integration-features"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: WEM - Adding your Schedule to External Calendars",
+    "course_number": 34,
+    "slug": "wem-adding-your-schedule-to-external-calendars",
+    "url": "https://beyond.genesys.com/explore/course/wem-adding-your-schedule-to-external-calendars",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-adding-your-schedule-to-external-calendars"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Shift Trades for Agents",
+    "course_number": 35,
+    "slug": "wem-shift-trades-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/wem-shift-trades-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-shift-trades-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: WEM - Schedules for Agents",
+    "course_number": 36,
+    "slug": "wem-schedules-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/wem-schedules-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-schedules-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Web Messaging",
+    "course_number": 37,
+    "slug": "web-messaging",
+    "url": "https://beyond.genesys.com/explore/course/web-messaging",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "web-messaging"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Voice Additional Features for Agents",
+    "course_number": 38,
+    "slug": "voice-additional-features-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/voice-additional-features-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "voice-additional-features-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: Email for Agents",
+    "course_number": 39,
+    "slug": "email-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/email-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "email-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Cloud Media Services - Telephony Connection Options",
+    "course_number": 40,
+    "slug": "cloud-media-services-telephony-connection-options",
+    "url": "https://beyond.genesys.com/explore/course/cloud-media-services-telephony-connection-options",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "cloud-media-services-telephony-connection-options"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: Campaign Tasks for Agents",
+    "course_number": 41,
+    "slug": "campaign-tasks-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/campaign-tasks-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "campaign-tasks-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Edge - Networking",
+    "course_number": 42,
+    "slug": "edge-networking",
+    "url": "https://beyond.genesys.com/explore/course/edge-networking",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "edge-networking"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Edge - BYOC Premise Configuration",
+    "course_number": 43,
+    "slug": "edge-byoc-premise-configuration",
+    "url": "https://beyond.genesys.com/explore/course/edge-byoc-premise-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "edge-byoc-premise-configuration",
+      "edge-byoc-premise-config"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Edge - How It Works",
+    "course_number": 44,
+    "slug": "edge-how-it-works",
+    "url": "https://beyond.genesys.com/explore/course/edge-how-it-works",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "edge-how-it-works"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Edge - WebRTC",
+    "course_number": 45,
+    "slug": "edge-webrtc",
+    "url": "https://beyond.genesys.com/explore/course/edge-webrtc",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "edge-webrtc"
+    ]
+  },
+  {
+    "original_title": "Introduction to Genesys Cloud for Supervisors: Essentials",
+    "course_number": 46,
+    "slug": "genesys-cloud-for-supervisors-essentials",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-for-supervisors-essentials",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-for-supervisors-essentials",
+      "for-supervisors-essentials",
+      "genesys-cloud-for-sups-essentials"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Telephony",
+    "course_number": 47,
+    "slug": "genesys-cloud-telephony",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-telephony",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-telephony",
+      "telephony"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Routing",
+    "course_number": 48,
+    "slug": "genesys-cloud-routing",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-routing",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-routing",
+      "routing"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Voice Essentials for Agents",
+    "course_number": 49,
+    "slug": "voice-essentials-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/voice-essentials-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "voice-essentials-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: An Overview",
+    "course_number": 50,
+    "slug": "an-overview",
+    "url": "https://beyond.genesys.com/explore/course/an-overview",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "an-overview"
+    ]
+  },
+  {
+    "original_title": "Introduction to Genesys Cloud for Agents: Working Together",
+    "course_number": 51,
+    "slug": "genesys-cloud-for-agents-working-together",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-for-agents-working-together",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-for-agents-working-together",
+      "for-agents-working-together"
+    ]
+  },
+  {
+    "original_title": "Introduction to Genesys Cloud for Agents: The Basics",
+    "course_number": 52,
+    "slug": "genesys-cloud-for-agents-the-basics",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-for-agents-the-basics",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-for-agents-the-basics",
+      "for-agents-the-basics"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Edge - Survivability",
+    "course_number": 53,
+    "slug": "edge-survivability",
+    "url": "https://beyond.genesys.com/explore/course/edge-survivability",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "edge-survivability"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: Development and Feedback - Usage for Agents",
+    "course_number": 54,
+    "slug": "development-and-feedback-usage-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/development-and-feedback-usage-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "development-and-feedback-usage-for-agents",
+      "dev-and-feedback-usage-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Development and Feedback - Usage for Supervisors",
+    "course_number": 55,
+    "slug": "wem-development-and-feedback-usage-for-supervisors",
+    "url": "https://beyond.genesys.com/explore/course/wem-development-and-feedback-usage-for-supervisors",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-development-and-feedback-usage-for-supervisors",
+      "wem-development-and-feedback-usage-for-sups",
+      "wem-dev-and-feedback-usage-for-supervisors"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: WEM - Time Off for Agents",
+    "course_number": 56,
+    "slug": "wem-time-off-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/wem-time-off-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-time-off-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: Performance Views for Agents",
+    "course_number": 57,
+    "slug": "performance-views-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/performance-views-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "performance-views-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Quality Management - Reviewing My Evaluations",
+    "course_number": 58,
+    "slug": "wem-quality-management-reviewing-my-evaluations",
+    "url": "https://beyond.genesys.com/explore/course/wem-quality-management-reviewing-my-evaluations",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-quality-management-reviewing-my-evaluations",
+      "wem-quality-mgmt-reviewing-my-evaluations"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Using Genesys Tempo Mobile Application",
+    "course_number": 59,
+    "slug": "wem-using-genesys-tempo-mobile-application",
+    "url": "https://beyond.genesys.com/explore/course/wem-using-genesys-tempo-mobile-application",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-using-genesys-tempo-mobile-application"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - User Management",
+    "course_number": 60,
+    "slug": "api-user-management",
+    "url": "https://beyond.genesys.com/explore/course/api-user-management",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-user-management",
+      "api-user-mgmt"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - Conversation Management",
+    "course_number": 61,
+    "slug": "api-conversation-management",
+    "url": "https://beyond.genesys.com/explore/course/api-conversation-management",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-conversation-management",
+      "api-conversation-mgmt"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Contact Center Administrator - Scripting",
+    "course_number": 62,
+    "slug": "contact-center-administrator-scripting",
+    "url": "https://beyond.genesys.com/explore/course/contact-center-administrator-scripting",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "contact-center-administrator-scripting"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Contact Center Administrator - ACD",
+    "course_number": 63,
+    "slug": "contact-center-administrator-acd",
+    "url": "https://beyond.genesys.com/explore/course/contact-center-administrator-acd",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "contact-center-administrator-acd"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Contact Center Administrator - Initial Configuration",
+    "course_number": 64,
+    "slug": "contact-center-administrator-initial-configuration",
+    "url": "https://beyond.genesys.com/explore/course/contact-center-administrator-initial-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "contact-center-administrator-initial-configuration",
+      "contact-center-administrator-initial-config"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Performance Dashboards",
+    "course_number": 65,
+    "slug": "genesys-cloud-performance-dashboards",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-performance-dashboards",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-performance-dashboards",
+      "performance-dashboards"
+    ]
+  },
+  {
+    "original_title": "Introduction to Genesys Cloud for Supervisors: Additional Features",
+    "course_number": 66,
+    "slug": "genesys-cloud-for-supervisors-additional-features",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-for-supervisors-additional-features",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-for-supervisors-additional-features",
+      "for-supervisors-additional-features",
+      "genesys-cloud-for-sups-additional-features"
+    ]
+  },
+  {
+    "original_title": "Introduction to Genesys Cloud for Supervisors: Analytics and Reporting",
+    "course_number": 67,
+    "slug": "genesys-cloud-for-supervisors-analytics-and-reporting",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-for-supervisors-analytics-and-reporting",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-for-supervisors-analytics-and-reporting",
+      "for-supervisors-analytics-and-reporting",
+      "genesys-cloud-for-sups-analytics-and-reporting"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI - Predictive Engagement - Web Tracking for Developers",
+    "course_number": 68,
+    "slug": "ai-predictive-engagement-web-tracking-for-developers",
+    "url": "https://beyond.genesys.com/explore/course/ai-predictive-engagement-web-tracking-for-developers",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-predictive-engagement-web-tracking-for-developers"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI - Predictive Engagement - Setup and Configuration",
+    "course_number": 69,
+    "slug": "ai-predictive-engagement-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/ai-predictive-engagement-setup-and-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-predictive-engagement-setup-and-configuration",
+      "ai-predictive-engagement-setup-and-config"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI - Predictive Routing - Configuration",
+    "course_number": 70,
+    "slug": "ai-predictive-routing-configuration",
+    "url": "https://beyond.genesys.com/explore/course/ai-predictive-routing-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-predictive-routing-configuration",
+      "ai-predictive-routing-config"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Topic Spotting",
+    "course_number": 71,
+    "slug": "wem-speech-and-text-analytics-topic-spotting",
+    "url": "https://beyond.genesys.com/explore/course/wem-speech-and-text-analytics-topic-spotting",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-speech-and-text-analytics-topic-spotting"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI - Predictive Routing - Getting Started",
+    "course_number": 72,
+    "slug": "ai-predictive-routing-getting-started",
+    "url": "https://beyond.genesys.com/explore/course/ai-predictive-routing-getting-started",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-predictive-routing-getting-started"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI/Bots - Knowledge Workbench",
+    "course_number": 73,
+    "slug": "aibots-knowledge-workbench",
+    "url": "https://beyond.genesys.com/explore/course/aibots-knowledge-workbench",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-knowledge-workbench"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Contact Center Features",
+    "course_number": 74,
+    "slug": "genesys-cloud-contact-center-features",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-contact-center-features",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-contact-center-features",
+      "contact-center-features"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Platform",
+    "course_number": 75,
+    "slug": "genesys-cloud-platform",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-platform",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-platform",
+      "platform"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: API - License",
+    "course_number": 76,
+    "slug": "api-license",
+    "url": "https://beyond.genesys.com/explore/course/api-license",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-license"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Voice Surveys",
+    "course_number": 77,
+    "slug": "wem-voice-surveys",
+    "url": "https://beyond.genesys.com/explore/course/wem-voice-surveys",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-voice-surveys"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Journey Management - Journey Analyzer - Building Charts",
+    "course_number": 78,
+    "slug": "journey-management-journey-analyzer-building-charts",
+    "url": "https://beyond.genesys.com/explore/course/journey-management-journey-analyzer-building-charts",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "journey-management-journey-analyzer-building-charts",
+      "journey-mgmt-journey-analyzer-building-charts"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Supervisor Activity View",
+    "course_number": 79,
+    "slug": "wem-supervisor-activity-view",
+    "url": "https://beyond.genesys.com/explore/course/wem-supervisor-activity-view",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-supervisor-activity-view",
+      "wem-sup-activity-view"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: API - Speech and Text Analytics",
+    "course_number": 80,
+    "slug": "api-speech-and-text-analytics",
+    "url": "https://beyond.genesys.com/explore/course/api-speech-and-text-analytics",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "api-speech-and-text-analytics"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI/Bots - Fundamentals",
+    "course_number": 81,
+    "slug": "aibots-fundamentals",
+    "url": "https://beyond.genesys.com/explore/course/aibots-fundamentals",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-fundamentals"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI/Bots - Intent Miner",
+    "course_number": 82,
+    "slug": "aibots-intent-miner",
+    "url": "https://beyond.genesys.com/explore/course/aibots-intent-miner",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-intent-miner"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Time-Off Management",
+    "course_number": 83,
+    "slug": "wem-time-off-management",
+    "url": "https://beyond.genesys.com/explore/course/wem-time-off-management",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-time-off-management",
+      "wem-time-off-mgmt"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Cloud Media Services - Business Continuity",
+    "course_number": 84,
+    "slug": "cloud-media-services-business-continuity",
+    "url": "https://beyond.genesys.com/explore/course/cloud-media-services-business-continuity",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "cloud-media-services-business-continuity"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Cloud Media Services - Purchase to Port",
+    "course_number": 85,
+    "slug": "cloud-media-services-purchase-to-port",
+    "url": "https://beyond.genesys.com/explore/course/cloud-media-services-purchase-to-port",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "cloud-media-services-purchase-to-port"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: Gamification",
+    "course_number": 86,
+    "slug": "gamification",
+    "url": "https://beyond.genesys.com/explore/course/gamification",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "gamification"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Cloud Media Services - BYOC",
+    "course_number": 87,
+    "slug": "cloud-media-services-byoc",
+    "url": "https://beyond.genesys.com/explore/course/cloud-media-services-byoc",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "cloud-media-services-byoc"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Agent Activity View",
+    "course_number": 88,
+    "slug": "wem-agent-activity-view",
+    "url": "https://beyond.genesys.com/explore/course/wem-agent-activity-view",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-agent-activity-view"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: SMS Basics for Agents",
+    "course_number": 89,
+    "slug": "sms-basics-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/sms-basics-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "sms-basics-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: AI/Bots - Knowledge Workbench - Knowledge Portal",
+    "course_number": 90,
+    "slug": "aibots-knowledge-workbench-knowledge-portal",
+    "url": "https://beyond.genesys.com/explore/course/aibots-knowledge-workbench-knowledge-portal",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-knowledge-workbench-knowledge-portal"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI/Bots - Knowledge Workbench - Knowledge Optimizer",
+    "course_number": 91,
+    "slug": "aibots-knowledge-workbench-knowledge-optimizer",
+    "url": "https://beyond.genesys.com/explore/course/aibots-knowledge-workbench-knowledge-optimizer",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-knowledge-workbench-knowledge-optimizer"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI/Bots - Agent Assist",
+    "course_number": 92,
+    "slug": "aibots-agent-assist",
+    "url": "https://beyond.genesys.com/explore/course/aibots-agent-assist",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-agent-assist"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI - Predictive Engagement - Integrations for Developers",
+    "course_number": 93,
+    "slug": "ai-predictive-engagement-integrations-for-developers",
+    "url": "https://beyond.genesys.com/explore/course/ai-predictive-engagement-integrations-for-developers",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-predictive-engagement-integrations-for-developers"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI - Predictive Engagement - Reporting and Analytics",
+    "course_number": 94,
+    "slug": "ai-predictive-engagement-reporting-and-analytics",
+    "url": "https://beyond.genesys.com/explore/course/ai-predictive-engagement-reporting-and-analytics",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-predictive-engagement-reporting-and-analytics"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Speech and Text Analytics - Getting Started",
+    "course_number": 95,
+    "slug": "wem-speech-and-text-analytics-getting-started",
+    "url": "https://beyond.genesys.com/explore/course/wem-speech-and-text-analytics-getting-started",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-speech-and-text-analytics-getting-started"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI - Predictive Engagement - Customer Journey for Agents",
+    "course_number": 96,
+    "slug": "ai-predictive-engagement-customer-journey-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/ai-predictive-engagement-customer-journey-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-predictive-engagement-customer-journey-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI - Predictive Engagement - Working with Action Maps",
+    "course_number": 97,
+    "slug": "ai-predictive-engagement-working-with-action-maps",
+    "url": "https://beyond.genesys.com/explore/course/ai-predictive-engagement-working-with-action-maps",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-predictive-engagement-working-with-action-maps"
+    ]
+  },
+  {
+    "original_title": "Contact Center Metrics for Agents",
+    "course_number": 98,
+    "slug": "contact-center-metrics-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/contact-center-metrics-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "contact-center-metrics-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI/Bots - Agent Assist for Agents",
+    "course_number": 99,
+    "slug": "aibots-agent-assist-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/aibots-agent-assist-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-agent-assist-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI/Bots - Digital Bot Flow Actions and Tasks",
+    "course_number": 100,
+    "slug": "aibots-digital-bot-flow-actions-and-tasks",
+    "url": "https://beyond.genesys.com/explore/course/aibots-digital-bot-flow-actions-and-tasks",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-digital-bot-flow-actions-and-tasks"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: Messaging for Agents",
+    "course_number": 101,
+    "slug": "messaging-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/messaging-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "messaging-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: Digital - Onboarding Guide",
+    "course_number": 102,
+    "slug": "digital-onboarding-guide",
+    "url": "https://beyond.genesys.com/explore/course/digital-onboarding-guide",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "digital-onboarding-guide"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: Asynchronous Messaging for Retail",
+    "course_number": 103,
+    "slug": "asynchronous-messaging-for-retail",
+    "url": "https://beyond.genesys.com/explore/course/asynchronous-messaging-for-retail",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "asynchronous-messaging-for-retail"
+    ]
+  },
+  {
+    "original_title": "CX Cloud from Genesys and Salesforce - Initial Setup and Configuration",
+    "course_number": 104,
+    "slug": "initial-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/initial-setup-and-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "initial-setup-and-configuration",
+      "initial-setup-and-config"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Speech and Text Analytics - Improving Transcription Accuracy",
+    "course_number": 105,
+    "slug": "wem-speech-and-text-analytics-improving-transcription-accuracy",
+    "url": "https://beyond.genesys.com/explore/course/wem-speech-and-text-analytics-improving-transcription-accuracy",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-speech-and-text-analytics-improving-transcription-accuracy"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: AI - Agent Copilot - Agent Usage",
+    "course_number": 106,
+    "slug": "ai-agent-copilot-agent-usage",
+    "url": "https://beyond.genesys.com/explore/course/ai-agent-copilot-agent-usage",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-agent-copilot-agent-usage"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: AI - Agent Copilot - Setup and Configuration",
+    "course_number": 107,
+    "slug": "ai-agent-copilot-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/ai-agent-copilot-setup-and-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-agent-copilot-setup-and-configuration",
+      "ai-agent-copilot-setup-and-config"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Journey Management - Getting Started Quickly",
+    "course_number": 108,
+    "slug": "journey-management-getting-started-quickly",
+    "url": "https://beyond.genesys.com/explore/course/journey-management-getting-started-quickly",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "journey-management-getting-started-quickly",
+      "journey-mgmt-getting-started-quickly"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Journey Management - Journey Analyzer Filters and Connector Settings",
+    "course_number": 109,
+    "slug": "journey-management-journey-analyzer-filters-and-connector-settings",
+    "url": "https://beyond.genesys.com/explore/course/journey-management-journey-analyzer-filters-and-connector-settings",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "journey-management-journey-analyzer-filters-and-connector-settings",
+      "journey-mgmt-journey-analyzer-filters-and-connector-settings"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: AI - Predictive Routing - Performance Reports",
+    "course_number": 110,
+    "slug": "ai-predictive-routing-performance-reports",
+    "url": "https://beyond.genesys.com/explore/course/ai-predictive-routing-performance-reports",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "ai-predictive-routing-performance-reports"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WFM - Creating Forecasts",
+    "course_number": 111,
+    "slug": "wfm-creating-forecasts",
+    "url": "https://beyond.genesys.com/explore/course/wfm-creating-forecasts",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wfm-creating-forecasts"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Journey Management - Journey Analyzer",
+    "course_number": 112,
+    "slug": "journey-management-journey-analyzer",
+    "url": "https://beyond.genesys.com/explore/course/journey-management-journey-analyzer",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "journey-management-journey-analyzer",
+      "journey-mgmt-journey-analyzer"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Architect - Journey Flows",
+    "course_number": 113,
+    "slug": "architect-journey-flows",
+    "url": "https://beyond.genesys.com/explore/course/architect-journey-flows",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "architect-journey-flows"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WFM - Activity Codes and Work Plans",
+    "course_number": 114,
+    "slug": "wfm-activity-codes-and-work-plans",
+    "url": "https://beyond.genesys.com/explore/course/wfm-activity-codes-and-work-plans",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wfm-activity-codes-and-work-plans"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Speech and Text Analytics - Empathy Analysis",
+    "course_number": 115,
+    "slug": "wem-speech-and-text-analytics-empathy-analysis",
+    "url": "https://beyond.genesys.com/explore/course/wem-speech-and-text-analytics-empathy-analysis",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-speech-and-text-analytics-empathy-analysis"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WFM - Service Goal Templates and Planning Groups Configuration",
+    "course_number": 116,
+    "slug": "wfm-service-goal-templates-and-planning-groups-configuration",
+    "url": "https://beyond.genesys.com/explore/course/wfm-service-goal-templates-and-planning-groups-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wfm-service-goal-templates-and-planning-groups-configuration",
+      "wfm-service-goal-templates-and-planning-groups-config"
+    ]
+  },
+  {
+    "original_title": "Introduction to CX Cloud from Genesys and Salesforce - For Agents",
+    "course_number": 117,
+    "slug": "for-agents",
+    "url": "https://beyond.genesys.com/explore/course/for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: SMS Messaging",
+    "course_number": 118,
+    "slug": "sms-messaging",
+    "url": "https://beyond.genesys.com/explore/course/sms-messaging",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "sms-messaging"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Work Automation - Supervisor and Agent Usage",
+    "course_number": 119,
+    "slug": "work-automation-supervisor-and-agent-usage",
+    "url": "https://beyond.genesys.com/explore/course/work-automation-supervisor-and-agent-usage",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "work-automation-supervisor-and-agent-usage",
+      "work-automation-sup-and-agent-usage"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Work Automation - Setup and Configuration",
+    "course_number": 120,
+    "slug": "work-automation-setup-and-configuration",
+    "url": "https://beyond.genesys.com/explore/course/work-automation-setup-and-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "work-automation-setup-and-configuration",
+      "work-automation-setup-and-config"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WFM - Business Unit and Management Unit Configuration",
+    "course_number": 121,
+    "slug": "wfm-business-unit-and-management-unit-configuration",
+    "url": "https://beyond.genesys.com/explore/course/wfm-business-unit-and-management-unit-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wfm-business-unit-and-management-unit-configuration",
+      "wfm-business-unit-and-management-unit-config",
+      "wfm-business-unit-and-mgmt-unit-configuration"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Quality Management - Evaluating Interactions",
+    "course_number": 122,
+    "slug": "quality-management-evaluating-interactions",
+    "url": "https://beyond.genesys.com/explore/course/quality-management-evaluating-interactions",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "quality-management-evaluating-interactions",
+      "quality-mgmt-evaluating-interactions"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Quality Management Configuration",
+    "course_number": 123,
+    "slug": "quality-management-configuration",
+    "url": "https://beyond.genesys.com/explore/course/quality-management-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "quality-management-configuration",
+      "quality-management-config",
+      "quality-mgmt-configuration"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Business Analytics for Speech Data",
+    "course_number": 124,
+    "slug": "wem-speech-and-text-analytics-business-analytics-for-speech-data",
+    "url": "https://beyond.genesys.com/explore/course/wem-speech-and-text-analytics-business-analytics-for-speech-data",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-speech-and-text-analytics-business-analytics-for-speech-data"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Quality Management - Basics",
+    "course_number": 125,
+    "slug": "quality-management-basics",
+    "url": "https://beyond.genesys.com/explore/course/quality-management-basics",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "quality-management-basics",
+      "quality-mgmt-basics"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Topic Miner",
+    "course_number": 126,
+    "slug": "wem-speech-and-text-analytics-topic-miner",
+    "url": "https://beyond.genesys.com/explore/course/wem-speech-and-text-analytics-topic-miner",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-speech-and-text-analytics-topic-miner"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud CX: AI/Bots - Build a Digital Bot for Inbound Message Flows",
+    "course_number": 127,
+    "slug": "aibots-build-a-digital-bot-for-inbound-message-flows",
+    "url": "https://beyond.genesys.com/explore/course/aibots-build-a-digital-bot-for-inbound-message-flows",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-build-a-digital-bot-for-inbound-message-flows"
+    ]
+  },
+  {
+    "original_title": "Contact Center Basics for Agents",
+    "course_number": 128,
+    "slug": "contact-center-basics-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/contact-center-basics-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "contact-center-basics-for-agents"
+    ]
+  },
+  {
+    "original_title": "The Agent's Role in the Contact Center",
+    "course_number": 129,
+    "slug": "the-agents-role-in-the-contact-center",
+    "url": "https://beyond.genesys.com/explore/course/the-agents-role-in-the-contact-center",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "the-agents-role-in-the-contact-center"
+    ]
+  },
+  {
+    "original_title": "Empathy Basics for Agents",
+    "course_number": 130,
+    "slug": "empathy-basics-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/empathy-basics-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "empathy-basics-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WEM - Performance Management with Scorecard Insights",
+    "course_number": 131,
+    "slug": "wem-performance-management-with-scorecard-insights",
+    "url": "https://beyond.genesys.com/explore/course/wem-performance-management-with-scorecard-insights",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wem-performance-management-with-scorecard-insights",
+      "wem-performance-mgmt-with-scorecard-insights"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: AI/Bots - Use Knowledge Workbench with Bots",
+    "course_number": 132,
+    "slug": "aibots-use-knowledge-workbench-with-bots",
+    "url": "https://beyond.genesys.com/explore/course/aibots-use-knowledge-workbench-with-bots",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-use-knowledge-workbench-with-bots"
+    ]
+  },
+  {
+    "original_title": "CX Cloud from Genesys and Salesforce: Beginner Guide for Agents",
+    "course_number": 133,
+    "slug": "beginner-guide-for-agents",
+    "url": "https://beyond.genesys.com/explore/course/beginner-guide-for-agents",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "beginner-guide-for-agents"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Introduction to Workforce Management Configuration",
+    "course_number": 134,
+    "slug": "workforce-management-configuration",
+    "url": "https://beyond.genesys.com/explore/course/workforce-management-configuration",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "workforce-management-configuration",
+      "workforce-management-config",
+      "workforce-mgmt-configuration"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Messaging Overview",
+    "course_number": 135,
+    "slug": "messaging-overview",
+    "url": "https://beyond.genesys.com/explore/course/messaging-overview",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "messaging-overview"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: AI/Bots - Bot Insights and Optimizations",
+    "course_number": 136,
+    "slug": "aibots-bot-insights-and-optimizations",
+    "url": "https://beyond.genesys.com/explore/course/aibots-bot-insights-and-optimizations",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "aibots-bot-insights-and-optimizations"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud Work Automation - Business Value Overview",
+    "course_number": 137,
+    "slug": "genesys-cloud-work-automation-business-value-overview",
+    "url": "https://beyond.genesys.com/explore/course/genesys-cloud-work-automation-business-value-overview",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "genesys-cloud-work-automation-business-value-overview",
+      "work-automation-business-value-overview"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WFM - Monitoring and Adherence",
+    "course_number": 138,
+    "slug": "wfm-monitoring-and-adherence",
+    "url": "https://beyond.genesys.com/explore/course/wfm-monitoring-and-adherence",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wfm-monitoring-and-adherence"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: Journey Management for Contact Center Optimization",
+    "course_number": 139,
+    "slug": "journey-management-for-contact-center-optimization",
+    "url": "https://beyond.genesys.com/explore/course/journey-management-for-contact-center-optimization",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "journey-management-for-contact-center-optimization",
+      "journey-mgmt-for-contact-center-optimization"
+    ]
+  },
+  {
+    "original_title": "Genesys Cloud: WFM - Creating Schedules",
+    "course_number": 140,
+    "slug": "wfm-creating-schedules",
+    "url": "https://beyond.genesys.com/explore/course/wfm-creating-schedules",
+    "found": true,
+    "details": {
+      "title_from_page": "",
+      "description": "",
+      "duration": "",
+      "level": "",
+      "objectives": [],
+      "prerequisites": "",
+      "page_content_length": 3341
+    },
+    "variations_tried": [
+      "wfm-creating-schedules"
+    ]
+  }
+]

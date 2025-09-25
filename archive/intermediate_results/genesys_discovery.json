@@ -1,0 +1,338 @@
+{
+  "timestamp": "2025-09-24 11:02:34",
+  "structure_analysis": {
+    "https://beyond.genesys.com/explore/search;s=;p=1": {
+      "status_code": 200,
+      "content_length": 3341,
+      "content_type": "text/html",
+      "final_url": "https://beyond.genesys.com/explore/search;s=;p=1"
+    },
+    "https://beyond.genesys.com/explore/course/genesys-cloud-social-listening-setup-and-configuration": {
+      "status_code": 200,
+      "content_length": 3341,
+      "content_type": "text/html",
+      "final_url": "https://beyond.genesys.com/explore/course/genesys-cloud-social-listening-setup-and-configuration"
+    },
+    "https://beyond.genesys.com/api/explore/search": {
+      "status_code": 200,
+      "content_length": 3341,
+      "content_type": "text/html",
+      "final_url": "https://beyond.genesys.com/api/explore/search"
+    },
+    "https://beyond.genesys.com/explore": {
+      "status_code": 200,
+      "content_length": 3341,
+      "content_type": "text/html",
+      "final_url": "https://beyond.genesys.com/explore"
+    },
+    "https://beyond.genesys.com": {
+      "status_code": 200,
+      "content_length": 3341,
+      "content_type": "text/html",
+      "final_url": "https://beyond.genesys.com/"
+    }
+  },
+  "found_courses": [
+    {
+      "title": "Genesys Cloud Basics",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-basics",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Introduction",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-introduction",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Admin Fundamentals",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-admin-fundamentals",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Agent Training",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-agent-training",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Contact Center",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-contact-center",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Routing",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-routing",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Analytics",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-analytics",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Workforce Management",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-workforce-management",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Voice Configuration",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-voice-configuration",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Digital Messaging",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-digital-messaging",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Integration",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-integration",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Api Fundamentals",
+      "url": "https://beyond.genesys.com/explore/course/genesys-cloud-api-fundamentals",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Social Listening Setup And Configuration",
+      "url": "https://beyond.genesys.com/explore/course/social-listening-setup-and-configuration",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Workforce Optimization",
+      "url": "https://beyond.genesys.com/explore/course/workforce-optimization",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Predictive Engagement",
+      "url": "https://beyond.genesys.com/explore/course/predictive-engagement",
+      "pattern": "https://beyond.genesys.com/explore/course/"
+    },
+    {
+      "title": "Genesys Cloud Basics",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-basics",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Introduction",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-introduction",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Admin Fundamentals",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-admin-fundamentals",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Agent Training",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-agent-training",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Contact Center",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-contact-center",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Routing",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-routing",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Analytics",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-analytics",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Workforce Management",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-workforce-management",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Voice Configuration",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-voice-configuration",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Digital Messaging",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-digital-messaging",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Integration",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-integration",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Api Fundamentals",
+      "url": "https://beyond.genesys.com/course/genesys-cloud-api-fundamentals",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Social Listening Setup And Configuration",
+      "url": "https://beyond.genesys.com/course/social-listening-setup-and-configuration",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Workforce Optimization",
+      "url": "https://beyond.genesys.com/course/workforce-optimization",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Predictive Engagement",
+      "url": "https://beyond.genesys.com/course/predictive-engagement",
+      "pattern": "https://beyond.genesys.com/course/"
+    },
+    {
+      "title": "Genesys Cloud Basics",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-basics",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Introduction",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-introduction",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Admin Fundamentals",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-admin-fundamentals",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Agent Training",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-agent-training",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Contact Center",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-contact-center",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Routing",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-routing",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Analytics",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-analytics",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Workforce Management",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-workforce-management",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Voice Configuration",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-voice-configuration",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Digital Messaging",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-digital-messaging",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Integration",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-integration",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Api Fundamentals",
+      "url": "https://beyond.genesys.com/learn/genesys-cloud-api-fundamentals",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Social Listening Setup And Configuration",
+      "url": "https://beyond.genesys.com/learn/social-listening-setup-and-configuration",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Workforce Optimization",
+      "url": "https://beyond.genesys.com/learn/workforce-optimization",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Predictive Engagement",
+      "url": "https://beyond.genesys.com/learn/predictive-engagement",
+      "pattern": "https://beyond.genesys.com/learn/"
+    },
+    {
+      "title": "Genesys Cloud Basics",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-basics",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Introduction",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-introduction",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Admin Fundamentals",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-admin-fundamentals",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Agent Training",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-agent-training",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Contact Center",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-contact-center",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Routing",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-routing",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Analytics",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-analytics",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Workforce Management",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-workforce-management",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Voice Configuration",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-voice-configuration",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Digital Messaging",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-digital-messaging",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Integration",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-integration",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Genesys Cloud Api Fundamentals",
+      "url": "https://beyond.genesys.com/training/genesys-cloud-api-fundamentals",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Social Listening Setup And Configuration",
+      "url": "https://beyond.genesys.com/training/social-listening-setup-and-configuration",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Workforce Optimization",
+      "url": "https://beyond.genesys.com/training/workforce-optimization",
+      "pattern": "https://beyond.genesys.com/training/"
+    },
+    {
+      "title": "Predictive Engagement",
+      "url": "https://beyond.genesys.com/training/predictive-engagement",
+      "pattern": "https://beyond.genesys.com/training/"
+    }
+  ],
+  "total_courses_found": 60
+}
