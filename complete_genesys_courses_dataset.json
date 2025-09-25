@@ -1,14 +1,21 @@
 {
-  "processing_date": "2025-09-24T22:19:22.721526",
-  "original_extraction_date": "2025-09-24T19:22:53.841216",
+  "dataset_name": "Complete Genesys Cloud Course Dataset",
+  "creation_date": "2025-09-25T11:25:55.895167",
   "total_courses": 142,
-  "successful_extractions": 129,
-  "success_rate": "90.8%",
-  "processing_stats": {
-    "learning_type_extracted": 129,
-    "duration_extracted": 129,
-    "outline_cleaned": 129
-  },
+  "courses_with_target_audience": 122,
+  "courses_with_descriptions": 129,
+  "courses_with_durations": 129,
+  "courses_with_outlines": 126,
+  "success_rate_target_audience": "85.9%",
+  "fields": [
+    "title",
+    "url",
+    "description",
+    "learning_type",
+    "duration",
+    "course_outline",
+    "target_audience"
+  ],
   "courses": [
     {
       "title": "Genesys Cloud: Edge - Troubleshooting",
@@ -22,8 +29,12 @@
         "SIP Analysis",
         "Common Issues"
       ],
-      "page_length": 242028,
-      "extraction_timestamp": "2025-09-24T18:37:37.620431"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Edge - BYOC Premises and Edge Introductory Concepts",
@@ -36,8 +47,12 @@
         "Edge Models and Considerations",
         "PSTN Connectivity"
       ],
-      "page_length": 241933,
-      "extraction_timestamp": "2025-09-24T18:37:56.196311"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: API - Workforce Management",
@@ -53,8 +68,10 @@
         "Introduction to API and Workforce Management",
         "Workforce Management Reports"
       ],
-      "page_length": 241219,
-      "extraction_timestamp": "2025-09-24T18:38:12.373584"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: API - Real-Time Reporting",
@@ -67,8 +84,10 @@
         "Instantaneous Observation APIs",
         "Notification APIs"
       ],
-      "page_length": 241462,
-      "extraction_timestamp": "2025-09-24T18:38:28.492059"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: API - Quality Report Generation",
@@ -82,8 +101,10 @@
         "Survey APIs",
         "Filters"
       ],
-      "page_length": 241698,
-      "extraction_timestamp": "2025-09-24T18:38:44.833887"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: API - Historical Report Generation",
@@ -97,8 +118,10 @@
         "Detail Record API",
         "Detail Record Jobs API"
       ],
-      "page_length": 241455,
-      "extraction_timestamp": "2025-09-24T18:39:00.755619"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: WEM - Speech and Text Analytics - Voice and Digital Transcriptions",
@@ -116,8 +139,8 @@
         "Key Features of Voice and Digital Transcripts",
         "Prerequisites for Configuration"
       ],
-      "page_length": 243981,
-      "extraction_timestamp": "2025-09-24T18:39:16.792976"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: API - Conversation Details",
@@ -129,8 +152,10 @@
         "The following section is covered in this eLearning course: Introduction to Conversation details",
         "Introduction to Conversation details"
       ],
-      "page_length": 241105,
-      "extraction_timestamp": "2025-09-24T18:39:32.738741"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: API - Authorization",
@@ -145,8 +170,10 @@
         "Client Credentials Grant",
         "SAML2 Bearer Grant"
       ],
-      "page_length": 241476,
-      "extraction_timestamp": "2025-09-24T18:39:49.017550"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Social Listening - Setup and Configuration",
@@ -163,8 +190,11 @@
         "Navigate the Social Listening Posts view and escalate social content manually.",
         "Review the Social Data Usage view to check your organization’s monthly social data usage."
       ],
-      "page_length": 241951,
-      "extraction_timestamp": "2025-09-24T18:40:04.913685"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Gamification Concepts",
@@ -173,8 +203,8 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T18:40:20.717236"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: AI/Bots: Virtual Agent - Setup and Configuration",
@@ -183,8 +213,8 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T18:40:36.143067"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: WEM - Supervisor AI for Quality Management",
@@ -198,8 +228,11 @@
         "Understand the purpose and functioning of AI Scoring.",
         "Configure AI Scoring to automate evaluations."
       ],
-      "page_length": 240882,
-      "extraction_timestamp": "2025-09-24T18:40:52.646685"
+      "target_audience": [
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: WEM - Supervisor AI for Speech and Text Analytics",
@@ -214,8 +247,11 @@
         "Identify and explain the core Copilot features of Supervisor AI.",
         "Explain the benefits of the different Copilot features."
       ],
-      "page_length": 241018,
-      "extraction_timestamp": "2025-09-24T18:41:08.515357"
+      "target_audience": [
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Introduction to CX as Code",
@@ -232,8 +268,10 @@
         "Utilize the recommended best practices for CX as Code.",
         "Introduction to CX as Code"
       ],
-      "page_length": 242060,
-      "extraction_timestamp": "2025-09-24T18:41:24.449154"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Journey Management - Understanding Data Behind the Insights",
@@ -251,8 +289,13 @@
         "Journey Management Versus Single Customer View",
         "Event Metadata"
       ],
-      "page_length": 242597,
-      "extraction_timestamp": "2025-09-24T18:41:40.272800"
+      "target_audience": [
+        "Supervisors",
+        "Managers",
+        "Business Users",
+        "Analysts"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: AI Solutions for Customer Engagement",
@@ -269,8 +312,11 @@
         "Introduction to Genesys Cloud AI for Customer Engagement",
         "Genesys Predictive Engagement"
       ],
-      "page_length": 242066,
-      "extraction_timestamp": "2025-09-24T18:41:56.264449"
+      "target_audience": [
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: AI Solutions for Customer Self-Service",
@@ -287,8 +333,11 @@
         "Genesys Knowledge Services",
         "Genesys Dialog Engine Bot Flows"
       ],
-      "page_length": 242668,
-      "extraction_timestamp": "2025-09-24T18:42:12.278009"
+      "target_audience": [
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Sentiment Analysis",
@@ -305,8 +354,11 @@
         "Prerequisites",
         "Working with Sentiment Analysis"
       ],
-      "page_length": 244066,
-      "extraction_timestamp": "2025-09-24T18:42:28.278483"
+      "target_audience": [
+        "Administrators",
+        "Supervisors"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: API - Introduction to the Platform API",
@@ -320,8 +372,10 @@
         "Authorization",
         "Regions in Genesys Cloud"
       ],
-      "page_length": 241667,
-      "extraction_timestamp": "2025-09-24T18:42:44.408822"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Contact Center Administrator - Data and Analytics",
@@ -336,8 +390,11 @@
         "Interaction View",
         "Reports Overview"
       ],
-      "page_length": 242047,
-      "extraction_timestamp": "2025-09-24T18:43:00.232788"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: Coaching - Usage for Supervisors",
@@ -355,8 +412,11 @@
         "Scheduling a Coaching Appointment",
         "Viewing and Editing a Coaching Appointment"
       ],
-      "page_length": 242756,
-      "extraction_timestamp": "2025-09-24T18:43:16.253055"
+      "target_audience": [
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Coaching - Usage for Agents",
@@ -370,8 +430,10 @@
         "Viewing a Coaching Appointment",
         "Adding Notes to Coaching Appointments"
       ],
-      "page_length": 242109,
-      "extraction_timestamp": "2025-09-24T18:43:32.242724"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Coaching - Overview",
@@ -386,8 +448,10 @@
         "Importance of Coaching",
         "Basic Concept of Genesys Cloud CX Coaching"
       ],
-      "page_length": 242066,
-      "extraction_timestamp": "2025-09-24T18:43:48.157280"
+      "target_audience": [
+        "Supervisors"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud - QM Web Survey",
@@ -398,8 +462,10 @@
       "course_outline": [
         "The following modules are covered in this eLearning course: · Genesys Cloud QM Web Survey Overview · Genesys Cloud QM Web Survey Usage"
       ],
-      "page_length": 242514,
-      "extraction_timestamp": "2025-09-24T18:44:04.298061"
+      "target_audience": [
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Agentless Voice Notifications",
@@ -413,8 +479,12 @@
         "Case studies",
         "Additional links and article references"
       ],
-      "page_length": 241627,
-      "extraction_timestamp": "2025-09-24T18:44:20.210040"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud Integrations: Data Actions",
@@ -428,8 +498,11 @@
         "Troubleshooting",
         "Course Review and Resources"
       ],
-      "page_length": 241836,
-      "extraction_timestamp": "2025-09-24T18:44:36.117885"
+      "target_audience": [
+        "Developers",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Contact Center Administrator - Data Actions",
@@ -440,8 +513,11 @@
       "course_outline": [
         "Data Actions"
       ],
-      "page_length": 241523,
-      "extraction_timestamp": "2025-09-24T18:44:52.030207"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Contact Center Administrator - Outbound Dialing",
@@ -453,8 +529,11 @@
         "Setting up a campaign",
         "Advanced Campaign Features"
       ],
-      "page_length": 241850,
-      "extraction_timestamp": "2025-09-24T18:45:08.020092"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud Integrations: Embedded Clients",
@@ -470,8 +549,11 @@
         "Troubleshooting/Tips",
         "Additional Links and Articles"
       ],
-      "page_length": 241950,
-      "extraction_timestamp": "2025-09-24T18:45:24.015063"
+      "target_audience": [
+        "Developers",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud Integrations: Custom Client Applications",
@@ -487,8 +569,11 @@
         "Module Review",
         "Additional Links and Articles"
       ],
-      "page_length": 241825,
-      "extraction_timestamp": "2025-09-24T18:45:39.977202"
+      "target_audience": [
+        "Developers",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud Integrations: AppFoundry",
@@ -505,8 +590,12 @@
         "Accessing AppFoundry",
         "Types of Applications in AppFoundry"
       ],
-      "page_length": 241736,
-      "extraction_timestamp": "2025-09-24T18:45:55.815570"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud Integrations: Integration Features",
@@ -521,8 +610,11 @@
         "Collaboration",
         "Custom Client Applications"
       ],
-      "page_length": 242844,
-      "extraction_timestamp": "2025-09-24T18:46:11.671580"
+      "target_audience": [
+        "Developers",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: WEM - Adding your Schedule to External Calendars",
@@ -536,8 +628,10 @@
         "Generate Calendar Link",
         "Add Schedule to External Calendars"
       ],
-      "page_length": 242399,
-      "extraction_timestamp": "2025-09-24T18:46:27.548358"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: WEM - Shift Trades for Agents",
@@ -555,8 +649,10 @@
         "Pick up an extra shift.",
         "View shift trade notifications."
       ],
-      "page_length": 242312,
-      "extraction_timestamp": "2025-09-24T18:46:43.248300"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: WEM - Schedules for Agents",
@@ -573,8 +669,10 @@
         "Describe how agents can see out of adherence notification.",
         "Work with my Schedule"
       ],
-      "page_length": 242710,
-      "extraction_timestamp": "2025-09-24T18:47:01.057045"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Web Messaging",
@@ -587,8 +685,8 @@
         "Messenger Configuration",
         "Messenger Deployment"
       ],
-      "page_length": 242039,
-      "extraction_timestamp": "2025-09-24T18:47:17.043390"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Voice Additional Features for Agents",
@@ -605,8 +703,10 @@
         "Using Secure Pause",
         "Transferring Calls to Secure Flow"
       ],
-      "page_length": 241835,
-      "extraction_timestamp": "2025-09-24T18:47:32.964472"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: Email for Agents",
@@ -623,8 +723,10 @@
         "Accept an ACD Email Message",
         "View and Link a Contact’s Profile"
       ],
-      "page_length": 241340,
-      "extraction_timestamp": "2025-09-24T18:47:48.879288"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Cloud Media Services - Telephony Connection Options",
@@ -636,8 +738,11 @@
         "Telephony Options",
         "Telephony Options Detailed"
       ],
-      "page_length": 241942,
-      "extraction_timestamp": "2025-09-24T18:48:04.542648"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: Campaign Tasks for Agents",
@@ -654,8 +759,10 @@
         "Outbound Campaign Dialing Modes",
         "Outbound Campaign Features"
       ],
-      "page_length": 241884,
-      "extraction_timestamp": "2025-09-24T18:48:20.392197"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Edge - Networking",
@@ -669,8 +776,12 @@
         "Firewall, DMZ, and Ports",
         "Bandwidth, Latency, Jitter, Packet Loss, and QoS"
       ],
-      "page_length": 241946,
-      "extraction_timestamp": "2025-09-24T18:48:36.099544"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Edge - BYOC Premise Configuration",
@@ -684,8 +795,12 @@
         "Call Management",
         "Phone Management"
       ],
-      "page_length": 242080,
-      "extraction_timestamp": "2025-09-24T18:48:52.003053"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Edge - How It Works",
@@ -697,8 +812,12 @@
         "Telephony Concepts",
         "When to use an External SIP Proxy"
       ],
-      "page_length": 241699,
-      "extraction_timestamp": "2025-09-24T18:49:08.703713"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Edge - WebRTC",
@@ -712,8 +831,12 @@
         "NAT Configuration Options",
         "WebRTC Setup"
       ],
-      "page_length": 241901,
-      "extraction_timestamp": "2025-09-24T18:49:24.513410"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Introduction to Genesys Cloud for Supervisors: Essentials",
@@ -732,8 +855,10 @@
         "Create and assign wrap-up codes to queues.",
         "Explain after-contact work (ACW) and its configuration options."
       ],
-      "page_length": 241545,
-      "extraction_timestamp": "2025-09-24T18:49:40.816565"
+      "target_audience": [
+        "Supervisors"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud Telephony",
@@ -752,8 +877,13 @@
         "Navigate through admin and agent user interface.",
         "Add agents to your contact center and manage their profiles, groups, roles and permissions."
       ],
-      "page_length": 241986,
-      "extraction_timestamp": "2025-09-24T18:49:57.250779"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators",
+        "Supervisors"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud Routing",
@@ -770,8 +900,11 @@
         "Overview of Inbound Call Flow and Callback",
         "Overview of Inbound Email Flow"
       ],
-      "page_length": 241076,
-      "extraction_timestamp": "2025-09-24T18:50:14.146974"
+      "target_audience": [
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Voice Essentials for Agents",
@@ -788,8 +921,10 @@
         "Performing After Call Work",
         "Making Calls"
       ],
-      "page_length": 241423,
-      "extraction_timestamp": "2025-09-24T18:50:29.980986"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: An Overview",
@@ -807,8 +942,14 @@
         "Describe Workforce Management in a Genesys Cloud CX contact center.",
         "Overview of the Genesys Cloud CX PlatformOverview of the Genesys Cloud CX PlatformFeatures of Genesys Cloud CX CollaborateFeatures of Genesys Cloud CX Contact CenterGenesys Cloud CX Contact Center FeaturesArchitectSupervisor Tools – Reports and DashboardsScripts and Basic Script Functionality Outbound Quality Management Workforce Management"
       ],
-      "page_length": 241737,
-      "extraction_timestamp": "2025-09-24T18:50:45.779187"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Agents",
+        "Supervisors",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Introduction to Genesys Cloud for Agents: Working Together",
@@ -825,8 +966,10 @@
         "Discuss the Workspace feature in Genesys. Cloud.",
         "Using the Directory"
       ],
-      "page_length": 241686,
-      "extraction_timestamp": "2025-09-24T18:51:01.605550"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Introduction to Genesys Cloud for Agents: The Basics",
@@ -844,8 +987,10 @@
         "The course introduces you to Genesys Cloud. You will also learn the basics of Genesys Cloud such as logging in, setting up a phone, and navigating the interface. In addition, this course helps you to use presence and status features. It includes the following topics:Log in and Set up Your PhoneNavigate Genesys CloudUse Multi-Contextual PanelManage Presence and StatusManage QueuesFinish the DayAdditional Features - Status",
         "Log in and Set up Your Phone"
       ],
-      "page_length": 241675,
-      "extraction_timestamp": "2025-09-24T18:51:17.701995"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Edge - Survivability",
@@ -858,8 +1003,12 @@
         "Best Practices",
         "Survival Tests"
       ],
-      "page_length": 241914,
-      "extraction_timestamp": "2025-09-24T18:51:33.664787"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: Development and Feedback - Usage for Agents",
@@ -873,8 +1022,10 @@
         "Viewing a Development and Feedback module",
         "Completing a Development and Feedback module"
       ],
-      "page_length": 242295,
-      "extraction_timestamp": "2025-09-24T18:51:50.862047"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: WEM - Development and Feedback - Usage for Supervisors",
@@ -890,8 +1041,11 @@
         "Archive/unarchive development and feedback modules.",
         "Assign modules manually to specific agents based on requirements."
       ],
-      "page_length": 242754,
-      "extraction_timestamp": "2025-09-24T18:52:06.666451"
+      "target_audience": [
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: WEM - Time Off for Agents",
@@ -908,8 +1062,10 @@
         "Demonstrate how to see time-off notifications in the inbox",
         "Navigate the My Time Off Dialog Box"
       ],
-      "page_length": 242666,
-      "extraction_timestamp": "2025-09-24T18:52:22.711760"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: Performance Views for Agents",
@@ -924,8 +1080,10 @@
         "Outline the best practices for exporting view data.",
         "Explain the function of My Queues Activity view."
       ],
-      "page_length": 242611,
-      "extraction_timestamp": "2025-09-24T18:52:38.695495"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: WEM - Quality Management - Reviewing My Evaluations",
@@ -942,8 +1100,10 @@
         "My Evaluations View",
         "Review Your Evaluations"
       ],
-      "page_length": 242778,
-      "extraction_timestamp": "2025-09-24T18:52:54.506537"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: WEM - Using Genesys Tempo Mobile Application",
@@ -960,8 +1120,11 @@
         "Submit feedback about Genesys Tempo mobile application.",
         "Access Genesys Tempo"
       ],
-      "page_length": 241712,
-      "extraction_timestamp": "2025-09-24T18:53:10.373186"
+      "target_audience": [
+        "Agents",
+        "Supervisors"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: API - User Management",
@@ -974,8 +1137,10 @@
         "User Management - 1",
         "User Management - 2"
       ],
-      "page_length": 241666,
-      "extraction_timestamp": "2025-09-24T18:53:25.985906"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: API - Conversation Management",
@@ -988,8 +1153,10 @@
         "Participation Management",
         "System Alerts"
       ],
-      "page_length": 241773,
-      "extraction_timestamp": "2025-09-24T18:53:41.075044"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Contact Center Administrator - Scripting",
@@ -1007,8 +1174,11 @@
         "Actions Usage in Scripts",
         "Component Templates Usage in Scripts"
       ],
-      "page_length": 241901,
-      "extraction_timestamp": "2025-09-24T18:53:58.488562"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Contact Center Administrator - ACD",
@@ -1022,8 +1192,11 @@
         "Automatic Call Distribution (ACD) Routing",
         "Automatic Call Distribution (ACD) Utilization Options"
       ],
-      "page_length": 242321,
-      "extraction_timestamp": "2025-09-24T18:54:16.027870"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Contact Center Administrator - Initial Configuration",
@@ -1038,8 +1211,11 @@
         "Queue Configuration and Management",
         "Email Objectives"
       ],
-      "page_length": 242362,
-      "extraction_timestamp": "2025-09-24T18:54:40.780876"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud Performance Dashboards",
@@ -1048,8 +1224,8 @@
       "learning_type": "Elearning",
       "duration": "25 mins",
       "course_outline": [],
-      "page_length": 241244,
-      "extraction_timestamp": "2025-09-24T18:55:00.436972"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Introduction to Genesys Cloud for Supervisors: Additional Features",
@@ -1067,8 +1243,11 @@
         "Scripts",
         "Monitor, Coach and Barge In"
       ],
-      "page_length": 241721,
-      "extraction_timestamp": "2025-09-24T18:55:22.616523"
+      "target_audience": [
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Introduction to Genesys Cloud for Supervisors: Analytics and Reporting",
@@ -1086,8 +1265,10 @@
         "Dynamic Views",
         "Exported Reports"
       ],
-      "page_length": 241465,
-      "extraction_timestamp": "2025-09-24T18:55:40.469894"
+      "target_audience": [
+        "Supervisors"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: AI - Predictive Engagement - Web Tracking for Developers",
@@ -1104,8 +1285,13 @@
         "Customize web tracking settings.",
         "Overview"
       ],
-      "page_length": 241948,
-      "extraction_timestamp": "2025-09-24T18:56:09.232633"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: AI - Predictive Engagement - Setup and Configuration",
@@ -1124,8 +1310,11 @@
         "Create outcomes.",
         "Create action maps."
       ],
-      "page_length": 242130,
-      "extraction_timestamp": "2025-09-24T18:56:29.059468"
+      "target_audience": [
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: AI - Predictive Routing - Configuration",
@@ -1143,8 +1332,11 @@
         "Timeout",
         "Skill Matching"
       ],
-      "page_length": 246692,
-      "extraction_timestamp": "2025-09-24T18:56:49.017555"
+      "target_audience": [
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Topic Spotting",
@@ -1161,8 +1353,11 @@
         "Topics",
         "Programs"
       ],
-      "page_length": 246860,
-      "extraction_timestamp": "2025-09-24T18:57:11.566810"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: AI - Predictive Routing - Getting Started",
@@ -1179,8 +1374,11 @@
         "Benefit Assessment",
         "Comparison Test"
       ],
-      "page_length": 241614,
-      "extraction_timestamp": "2025-09-24T18:57:38.792791"
+      "target_audience": [
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: AI/Bots - Knowledge Workbench",
@@ -1189,8 +1387,8 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T18:57:56.039551"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud Contact Center Features",
@@ -1208,8 +1406,14 @@
         "Genesys Cloud Contact Center FeaturesArchitectSupervisor Tools – Dynamic Views and DashboardsScripts and Basic Script Functionality Outbound Quality Management Workforce Management",
         "Architect"
       ],
-      "page_length": 241371,
-      "extraction_timestamp": "2025-09-24T18:58:19.094728"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Agents",
+        "Supervisors",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud Platform",
@@ -1225,8 +1429,14 @@
         "Features of Genesys Cloud Communicate",
         "Features of Genesys Cloud Contact Center"
       ],
-      "page_length": 240996,
-      "extraction_timestamp": "2025-09-24T18:58:36.054417"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Agents",
+        "Supervisors",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: API - License",
@@ -1243,8 +1453,10 @@
         "API Fair Usage Calculation",
         "Managing Licenses Through APIs"
       ],
-      "page_length": 242305,
-      "extraction_timestamp": "2025-09-24T18:58:57.693534"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: WEM - Voice Surveys",
@@ -1261,8 +1473,10 @@
         "Voice Survey Lifecycle",
         "Voice Survey in Action"
       ],
-      "page_length": 241801,
-      "extraction_timestamp": "2025-09-24T18:59:20.712525"
+      "target_audience": [
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: Journey Management - Journey Analyzer - Building Charts",
@@ -1279,8 +1493,13 @@
         "Journey Management Charts",
         "Chart Data and Formats"
       ],
-      "page_length": 242273,
-      "extraction_timestamp": "2025-09-24T18:59:44.433557"
+      "target_audience": [
+        "Supervisors",
+        "Managers",
+        "Business Users",
+        "Analysts"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: WEM - Supervisor Activity View",
@@ -1299,8 +1518,11 @@
         "Analyze and understand the data in the supervisor activity view widgets.",
         "Use the features in the widgets to help improve agents’ performance."
       ],
-      "page_length": 242184,
-      "extraction_timestamp": "2025-09-24T19:00:09.131130"
+      "target_audience": [
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: API - Speech and Text Analytics",
@@ -1314,8 +1536,12 @@
         "Speech and Text Analytics Overview",
         "Speech and Text Analytics API Endpoints"
       ],
-      "page_length": 243248,
-      "extraction_timestamp": "2025-09-24T19:00:26.398059"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: AI/Bots - Fundamentals",
@@ -1324,8 +1550,8 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T19:00:47.303525"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud CX: AI/Bots - Intent Miner",
@@ -1334,8 +1560,8 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T19:01:07.396632"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.894658"
     },
     {
       "title": "Genesys Cloud: WEM - Time-Off Management",
@@ -1352,8 +1578,13 @@
         "Request and accept shift trades.",
         "Working with Time-off Limits"
       ],
-      "page_length": 243763,
-      "extraction_timestamp": "2025-09-24T19:01:30.843668"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Cloud Media Services - Business Continuity",
@@ -1364,8 +1595,11 @@
       "course_outline": [
         "Business Continuity"
       ],
-      "page_length": 241501,
-      "extraction_timestamp": "2025-09-24T19:01:49.483498"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Cloud Media Services - Purchase to Port",
@@ -1382,8 +1616,11 @@
         "Usage report overview of voice service consumption data",
         "Locations and Site Setup"
       ],
-      "page_length": 242007,
-      "extraction_timestamp": "2025-09-24T19:02:10.466970"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: Gamification",
@@ -1400,8 +1637,14 @@
         "Gamification Profiles",
         "Gamification Metrics"
       ],
-      "page_length": 242346,
-      "extraction_timestamp": "2025-09-24T19:02:31.849451"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Supervisors",
+        "Managers",
+        "Contact Center Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Cloud Media Services - BYOC",
@@ -1413,8 +1656,11 @@
         "BYOC Third-Party Options",
         "BYOC Troubleshooting"
       ],
-      "page_length": 241831,
-      "extraction_timestamp": "2025-09-24T19:02:48.375935"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WEM - Agent Activity View",
@@ -1431,8 +1677,10 @@
         "Schedule Tab",
         "Work Plan"
       ],
-      "page_length": 242422,
-      "extraction_timestamp": "2025-09-24T19:03:09.324033"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: SMS Basics for Agents",
@@ -1446,8 +1694,10 @@
         "Receive an SMS message",
         "Send an SMS message"
       ],
-      "page_length": 240778,
-      "extraction_timestamp": "2025-09-24T19:03:29.184817"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: AI/Bots - Knowledge Workbench - Knowledge Portal",
@@ -1456,8 +1706,13 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T19:03:52.747367"
+      "target_audience": [
+        "Developers",
+        "System Administrators",
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: AI/Bots - Knowledge Workbench - Knowledge Optimizer",
@@ -1466,8 +1721,13 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T19:04:16.887030"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Supervisors",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: AI/Bots - Agent Assist",
@@ -1476,8 +1736,13 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T19:04:41.718413"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Supervisors",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: AI - Predictive Engagement - Integrations for Developers",
@@ -1494,8 +1759,10 @@
         "Configure and publish an Architect workflow to associate leads.",
         "Configure an action map to use Architect flow action."
       ],
-      "page_length": 242146,
-      "extraction_timestamp": "2025-09-24T19:05:05.188497"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: AI - Predictive Engagement - Reporting and Analytics",
@@ -1512,8 +1779,11 @@
         "Action Map Performance Report",
         "Segment Performance Report"
       ],
-      "page_length": 241562,
-      "extraction_timestamp": "2025-09-24T19:05:29.033334"
+      "target_audience": [
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WEM - Speech and Text Analytics - Getting Started",
@@ -1530,8 +1800,10 @@
         "Setup and Configuration",
         "Speech and Text Analytics in Action"
       ],
-      "page_length": 243679,
-      "extraction_timestamp": "2025-09-24T19:05:51.280956"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: AI - Predictive Engagement - Customer Journey for Agents",
@@ -1549,8 +1821,10 @@
         "Accessing Customer Journey",
         "Customer Journey Information"
       ],
-      "page_length": 241263,
-      "extraction_timestamp": "2025-09-24T19:06:16.629991"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: AI - Predictive Engagement - Working with Action Maps",
@@ -1567,8 +1841,12 @@
         "Configure additional features for action maps.",
         "Action Maps Overview"
       ],
-      "page_length": 242055,
-      "extraction_timestamp": "2025-09-24T19:06:37.758971"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Contact Center Metrics for Agents",
@@ -1585,8 +1863,10 @@
         "Metrics and You",
         "How Can Metrics Help Agents?"
       ],
-      "page_length": 241308,
-      "extraction_timestamp": "2025-09-24T19:06:54.120757"
+      "target_audience": [
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: AI/Bots - Agent Assist for Agents",
@@ -1595,8 +1875,11 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T19:07:18.721966"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: AI/Bots - Digital Bot Flow Actions and Tasks",
@@ -1605,8 +1888,10 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T19:07:40.750221"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: Messaging for Agents",
@@ -1622,8 +1907,13 @@
         "Messaging Interactions Panel",
         "Messaging Channel Considerations"
       ],
-      "page_length": 241212,
-      "extraction_timestamp": "2025-09-24T19:07:58.437961"
+      "target_audience": [
+        "Supervisors",
+        "Managers",
+        "Business Users",
+        "Analysts"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: Digital - Onboarding Guide",
@@ -1636,8 +1926,12 @@
         "Navigate relevant resources to get up to speed quickly.",
         "Understand the benefits of additional training through Beyond."
       ],
-      "page_length": 240688,
-      "extraction_timestamp": "2025-09-24T19:08:17.772241"
+      "target_audience": [
+        "Administrators",
+        "Business Users",
+        "Analysts"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: Asynchronous Messaging for Retail",
@@ -1655,8 +1949,14 @@
         "Refining Your Async Strategy",
         "Sustaining Success with Async"
       ],
-      "page_length": 241160,
-      "extraction_timestamp": "2025-09-24T19:08:40.241357"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Supervisors",
+        "Managers",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "CX Cloud from Genesys and Salesforce - Initial Setup and Configuration",
@@ -1673,8 +1973,12 @@
         "Add users and assign permissions in Salesforce.",
         "Configure provisional admin settings."
       ],
-      "page_length": 242489,
-      "extraction_timestamp": "2025-09-24T19:09:02.031526"
+      "target_audience": [
+        "Administrators",
+        "Business Users",
+        "Analysts"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WEM - Speech and Text Analytics - Improving Transcription Accuracy",
@@ -1691,8 +1995,14 @@
         "Dictionary Management",
         "Adding Phrases to Topics"
       ],
-      "page_length": 242339,
-      "extraction_timestamp": "2025-09-24T19:09:22.458955"
+      "target_audience": [
+        "Developers",
+        "Administrators",
+        "Managers",
+        "Business Users",
+        "Analysts"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: AI - Agent Copilot - Agent Usage",
@@ -1710,8 +2020,10 @@
         "Understand how to improve Agent Copilot.",
         "The course will cover the following topics:Overview of Agent CopilotAgent Copilot FeaturesAgent Copilot in Action"
       ],
-      "page_length": 241919,
-      "extraction_timestamp": "2025-09-24T19:09:42.967156"
+      "target_audience": [
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: AI - Agent Copilot - Setup and Configuration",
@@ -1728,8 +2040,13 @@
         "Create a new Agent Copilot",
         "Explain how Agent Copilot benefits the customer and the agent"
       ],
-      "page_length": 241871,
-      "extraction_timestamp": "2025-09-24T19:10:09.497810"
+      "target_audience": [
+        "Supervisors",
+        "Managers",
+        "Analysts",
+        "IT Professionals"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Journey Management - Getting Started Quickly",
@@ -1746,8 +2063,10 @@
         "Introduction",
         "Importing the Sample Journeys"
       ],
-      "page_length": 241889,
-      "extraction_timestamp": "2025-09-24T19:10:30.282539"
+      "target_audience": [
+        "IT Professionals"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Journey Management - Journey Analyzer Filters and Connector Settings",
@@ -1764,8 +2083,10 @@
         "How are Event Level Filters Applied?",
         "Adding an Event Attribute Filter"
       ],
-      "page_length": 242222,
-      "extraction_timestamp": "2025-09-24T19:10:51.194140"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: AI - Predictive Routing - Performance Reports",
@@ -1780,8 +2101,12 @@
         "Analyze predictive routing queue impact report.",
         "Explore predictive model data."
       ],
-      "page_length": 240962,
-      "extraction_timestamp": "2025-09-24T19:11:12.631173"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WFM - Creating Forecasts",
@@ -1790,8 +2115,12 @@
       "learning_type": "Elearning",
       "duration": "5 mins",
       "course_outline": [],
-      "page_length": 241697,
-      "extraction_timestamp": "2025-09-24T19:11:32.980897"
+      "target_audience": [
+        "Agents",
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Journey Management - Journey Analyzer",
@@ -1808,8 +2137,12 @@
         "Genesys Cloud Journey Management",
         "Journey Analyzer Introduction"
       ],
-      "page_length": 241767,
-      "extraction_timestamp": "2025-09-24T19:11:53.871621"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Architect - Journey Flows",
@@ -1826,8 +2159,11 @@
         "Journey Flows",
         "Flow Outcomes and Flow Milestones"
       ],
-      "page_length": 241855,
-      "extraction_timestamp": "2025-09-24T19:12:18.453143"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WFM - Activity Codes and Work Plans",
@@ -1845,8 +2181,11 @@
         "Combine work plans into automated rotations.",
         "Describe the steps to assign work plans."
       ],
-      "page_length": 242332,
-      "extraction_timestamp": "2025-09-24T19:12:39.410520"
+      "target_audience": [
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WEM - Speech and Text Analytics - Empathy Analysis",
@@ -1864,8 +2203,13 @@
         "Apply the formula to calculate the empathy score.",
         "Show the steps to enable the Empathy Analysis feature."
       ],
-      "page_length": 243279,
-      "extraction_timestamp": "2025-09-24T19:13:04.628762"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Managers",
+        "IT Professionals"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WFM - Service Goal Templates and Planning Groups Configuration",
@@ -1878,8 +2222,14 @@
         "Configure a service level goal template.",
         "Build planning groups."
       ],
-      "page_length": 242169,
-      "extraction_timestamp": "2025-09-24T19:13:25.241902"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Supervisors",
+        "Managers",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Introduction to CX Cloud from Genesys and Salesforce - For Agents",
@@ -1896,8 +2246,12 @@
         "Outline the use of AI and bots in CX Cloud.",
         "Introducing CX Cloud from Genesys and Salesforce"
       ],
-      "page_length": 242181,
-      "extraction_timestamp": "2025-09-24T19:13:49.270470"
+      "target_audience": [
+        "Administrators",
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: SMS Messaging",
@@ -1914,8 +2268,11 @@
         "Explain the purchasing process and management of SMS long and short codes.",
         "SMS OverviewSMS CodesMore on SMS"
       ],
-      "page_length": 243715,
-      "extraction_timestamp": "2025-09-24T19:14:06.933525"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Work Automation - Supervisor and Agent Usage",
@@ -1931,8 +2288,10 @@
         "Supervisor/Administrator List View",
         "Agent Flow and Viewing Tools"
       ],
-      "page_length": 241440,
-      "extraction_timestamp": "2025-09-24T19:14:28.353483"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Work Automation - Setup and Configuration",
@@ -1949,8 +2308,10 @@
         "Manage the setup and configuration of workbins, custom attributes, worktypes, and their related features.",
         "Work Automation: An Introduction"
       ],
-      "page_length": 241479,
-      "extraction_timestamp": "2025-09-24T19:14:51.569511"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WFM - Business Unit and Management Unit Configuration",
@@ -1965,8 +2326,10 @@
         "Configure business units, including forecasts, scheduling, alternative shifts, and notifications.",
         "Set up management units, including scheduling, adherence, time-off, and shift-trading constraints."
       ],
-      "page_length": 241062,
-      "extraction_timestamp": "2025-09-24T19:15:13.335086"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Quality Management - Evaluating Interactions",
@@ -1984,8 +2347,10 @@
         "Why Evaluate an Interaction?",
         "Accessing Quality Management Activity Data for Evaluators"
       ],
-      "page_length": 242975,
-      "extraction_timestamp": "2025-09-24T19:15:36.298214"
+      "target_audience": [
+        "Supervisors"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Quality Management Configuration",
@@ -2003,8 +2368,10 @@
         "Assigning Roles and PermissionsEnabling RecordingCreating an Evaluation FormAssigning an Evaluation to another AssigneeUnderstanding Policy ConceptsActivating and Deactivating AgentsAccessing Quality Management Activity Data for Administrators",
         "Assigning Roles and Permissions"
       ],
-      "page_length": 243592,
-      "extraction_timestamp": "2025-09-24T19:15:56.262927"
+      "target_audience": [
+        "Agents"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Business Analytics for Speech Data",
@@ -2023,8 +2390,11 @@
         "Demonstrate how to use Content Search.",
         "Describe how to use the interactions detail page."
       ],
-      "page_length": 243996,
-      "extraction_timestamp": "2025-09-24T19:16:14.520204"
+      "target_audience": [
+        "System Administrators",
+        "Administrators"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Quality Management - Basics",
@@ -2039,8 +2409,12 @@
         "Key Components of Quality Management",
         "Accessing Quality Management Data"
       ],
-      "page_length": 242506,
-      "extraction_timestamp": "2025-09-24T19:16:37.155955"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Business Users"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: WEM - Speech and Text Analytics - Topic Miner",
@@ -2059,8 +2433,14 @@
         "Manage the mined phrases effectively.",
         "Delete a topic miner session."
       ],
-      "page_length": 243681,
-      "extraction_timestamp": "2025-09-24T19:17:01.852999"
+      "target_audience": [
+        "System Administrators",
+        "Administrators",
+        "Agents",
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud CX: AI/Bots - Build a Digital Bot for Inbound Message Flows",
@@ -2069,8 +2449,13 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T19:17:34.898997"
+      "target_audience": [
+        "Supervisors",
+        "Managers",
+        "Business Users",
+        "Analysts"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Contact Center Basics for Agents",
@@ -2085,8 +2470,11 @@
         "Interaction-based Technologies",
         "Workforce Engagement Management Technologies"
       ],
-      "page_length": 240863,
-      "extraction_timestamp": "2025-09-24T19:17:55.224777"
+      "target_audience": [
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "The Agent's Role in the Contact Center",
@@ -2103,8 +2491,11 @@
         "Traits of Successful Agents",
         "Measuring Your Success"
       ],
-      "page_length": 241131,
-      "extraction_timestamp": "2025-09-24T19:18:20.474905"
+      "target_audience": [
+        "Supervisors",
+        "Managers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Empathy Basics for Agents",
@@ -2122,8 +2513,10 @@
         "Empathy vs. Sympathy",
         "Empathy Strategies"
       ],
-      "page_length": 241173,
-      "extraction_timestamp": "2025-09-24T19:18:46.064122"
+      "target_audience": [
+        "Developers"
+      ],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WEM - Performance Management with Scorecard Insights",
@@ -2135,8 +2528,8 @@
         "Introduction to Insights",
         "Scorecard Insights"
       ],
-      "page_length": 241485,
-      "extraction_timestamp": "2025-09-24T19:19:03.389029"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: AI/Bots - Use Knowledge Workbench with Bots",
@@ -2145,8 +2538,8 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T19:19:23.250455"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "CX Cloud from Genesys and Salesforce: Beginner Guide for Agents",
@@ -2162,8 +2555,8 @@
         "Voice Interactions",
         "Inbound Web Message"
       ],
-      "page_length": 241298,
-      "extraction_timestamp": "2025-09-24T19:19:43.814184"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Introduction to Workforce Management Configuration",
@@ -2172,8 +2565,8 @@
       "learning_type": "Elearning",
       "duration": "10 mins",
       "course_outline": [],
-      "page_length": 240660,
-      "extraction_timestamp": "2025-09-24T19:20:03.165730"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Messaging Overview",
@@ -2190,8 +2583,8 @@
         "Message Routing",
         "Asynchronous Messaging"
       ],
-      "page_length": 241544,
-      "extraction_timestamp": "2025-09-24T19:20:22.413957"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: AI/Bots - Bot Insights and Optimizations",
@@ -2200,8 +2593,8 @@
       "learning_type": "",
       "duration": "",
       "course_outline": [],
-      "page_length": 190063,
-      "extraction_timestamp": "2025-09-24T19:20:42.345197"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud Work Automation - Business Value Overview",
@@ -2218,8 +2611,8 @@
         "Identify the key components of Work Automation",
         "Work Automation - A Comprehensive Look"
       ],
-      "page_length": 242165,
-      "extraction_timestamp": "2025-09-24T19:21:09.267076"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WFM - Monitoring and Adherence",
@@ -2232,8 +2625,8 @@
         "Monitor your workforce’s current day performance and real-time schedule adherence using Intraday Monitoring and Real-Time Adherence views.",
         "Investigate your workforce’s historical performance, schedule adherence, and activity data using Historical Adherence and Historical Shrinkage views."
       ],
-      "page_length": 242265,
-      "extraction_timestamp": "2025-09-24T19:21:27.763680"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Journey Management for Contact Center Optimization",
@@ -2250,8 +2643,8 @@
         "Journey Management Features",
         "Experience Orchestration"
       ],
-      "page_length": 241775,
-      "extraction_timestamp": "2025-09-24T19:21:47.372536"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: WFM - Creating Schedules",
@@ -2264,8 +2657,8 @@
         "Generate schedules with forecasting, as well as create blank schedules.",
         "Edit and maintain schedules."
       ],
-      "page_length": 242106,
-      "extraction_timestamp": "2025-09-24T19:22:07.542371"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: AI - Agent Assist - Analytics and Best Practices",
@@ -2282,8 +2675,8 @@
         "Analytics",
         "Best Practices"
       ],
-      "page_length": 241632,
-      "extraction_timestamp": "2025-09-24T19:22:27.543434"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     },
     {
       "title": "Genesys Cloud: Architect - Flow Outcomes and Flow Milestones",
@@ -2300,15 +2693,8 @@
         "Creating a Flow Outcome and Flow Milestones",
         "Adding a Milestone and Flow Outcomes"
       ],
-      "page_length": 241856,
-      "extraction_timestamp": "2025-09-24T19:22:47.005199"
+      "target_audience": [],
+      "extraction_timestamp": "2025-09-25T11:25:55.895167"
     }
-  ],
-  "last_updated": "2025-09-24T22:24:13.657439",
-  "fields_removed": [
-    "target_audience",
-    "level",
-    "prerequisites",
-    "course_objectives"
   ]
 }
