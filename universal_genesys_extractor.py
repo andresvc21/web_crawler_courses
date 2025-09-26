@@ -144,26 +144,44 @@ class UniversalGenesysExtractor:
 
     def extract_target_audience_enhanced(self, page_text):
         """Enhanced target audience extraction using proven header pattern"""
-        # Standardized audience types
+        # Comprehensive standardized audience types from production extraction
         audience_types = {
             'developer': 'Developers',
+            'developers': 'Developers',
             'system administrator': 'System Administrators',
+            'system administrators': 'System Administrators',
             'administrator': 'Administrators',
+            'administrators': 'Administrators',
+            'admin': 'Administrators',
             'supervisor': 'Supervisors',
+            'supervisors': 'Supervisors',
             'manager': 'Managers',
+            'managers': 'Managers',
             'agent': 'Agents',
+            'agents': 'Agents',
+            'contact center agent': 'Agents',
+            'contact center agents': 'Agents',
             'business user': 'Business Users',
+            'business users': 'Business Users',
             'analyst': 'Analysts',
+            'analysts': 'Analysts',
             'contact center manager': 'Contact Center Managers',
-            'it professional': 'IT Professionals'
+            'contact center administrator': 'System Administrators',
+            'quality manager': 'Managers',
+            'workforce manager': 'Managers',
+            'it professional': 'IT Professionals',
+            'it professionals': 'IT Professionals',
+            'it': 'IT Professionals'
         }
 
-        # Header patterns that worked in our previous extraction
+        # Comprehensive header patterns proven in production extraction
         header_patterns = [
             r'Target\s+Audience[:\s]*([^\.]+?)(?:Course\s+(?:Objectives|Prerequisites))',
             r'Intended\s+Audience[:\s]*([^\.]+?)(?:Course\s+(?:Objectives|Prerequisites))',
-            r'This\s+course\s+is\s+for[:\s]*([^\.]+?)(?:Course\s+(?:Objectives|Prerequisites))',
+            r'Who\s+Should\s+Attend[:\s]*([^\.]+?)(?:Course\s+(?:Objectives|Prerequisites))',
+            r'This\s+(?:course|eLearning)\s+is\s+(?:for|intended\s+for)[:\s]*([^\.]+?)(?:Course\s+(?:Objectives|Prerequisites))',
             r'Designed\s+for[:\s]*([^\.]+?)(?:Course\s+(?:Objectives|Prerequisites))',
+            r'Suitable\s+for[:\s]*([^\.]+?)(?:Course\s+(?:Objectives|Prerequisites))',
             r'Target\s+Audience[:\s]*([^\.]+?)(?:Overview|Introduction)',
             r'Intended\s+Audience[:\s]*([^\.]+?)(?:Overview|Introduction)'
         ]

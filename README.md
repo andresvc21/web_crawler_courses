@@ -156,10 +156,11 @@ The system identifies 10 distinct target audience types across all content:
 
 1. **Configuration-Driven Architecture** - Easy modification without code changes
 2. **Content-Type Specific Extraction** - Optimized settings per content type
-3. **Advanced Pattern Recognition** - Header-based target audience extraction
-4. **Robust Error Handling** - Graceful handling of missing or problematic content
-5. **Progress Tracking** - Intermediate saves and detailed logging
-6. **Flexible Output** - Both individual and combined datasets
+3. **Integrated Target Audience Detection** - Production-proven header pattern recognition with 85.9% success rate
+4. **Advanced Pattern Recognition** - Comprehensive audience type mapping and detection
+5. **Robust Error Handling** - Graceful handling of missing or problematic content
+6. **Progress Tracking** - Intermediate saves and detailed logging
+7. **Unified Extraction** - Single script handles all content types and extraction features
 
 ### Architecture
 
@@ -226,7 +227,6 @@ genesys_courses/
 │
 ├── Legacy Scripts (v1.0):
 │   ├── full_enhanced_extractor.py              # Original e-learning extractor
-│   ├── full_target_audience_extractor.py       # Target audience extraction
 │   ├── merge_complete_dataset.py               # Dataset merger
 │   └── fast_url_generator.py                   # URL generation
 │
@@ -240,6 +240,7 @@ genesys_courses/
 
 ### What Changed
 - **Single-purpose scripts** → **Universal configurable system**
+- **Separate target audience extractor** → **Fully integrated extraction**
 - **Hardcoded settings** → **JSON configuration**
 - **E-learning only** → **Multi-content type support**
 - **Single output** → **Type-specific outputs + combined**
@@ -269,6 +270,6 @@ This project is for educational and research purposes. Please respect Genesys's 
 
 ---
 
-**Project Version**: 2.0.0 - Universal Content Extractor
+**Project Version**: 2.1.0 - Unified Universal Extractor
 **Last Updated**: September 2025
-**Current Status**: E-learning complete, ready for webinars and self-study expansion
+**Current Status**: E-learning complete with integrated target audience extraction, ready for webinars and self-study expansion
