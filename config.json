@@ -2,13 +2,13 @@
   "project_info": {
     "name": "Genesys Learning Content Extractor",
     "description": "Unified extraction tool for Genesys learning content with integrated target audience detection",
-    "version": "2.1.0"
+    "version": "2.2.0"
   },
   "course_types": {
     "e-learning": {
       "name": "E-Learning Courses",
       "description": "Interactive online learning modules",
-      "input_file": "elearning_courses_list.txt",
+      "input_file": "data/input/elearning_courses_list.txt",
       "url_base": "https://beyond.genesys.com/explore/course/",
       "extraction_settings": {
         "wait_time": 12,
@@ -19,8 +19,8 @@
         "extract_descriptions": true
       },
       "output_files": {
-        "csv": "genesys_elearning_complete_dataset.csv",
-        "json": "genesys_elearning_complete_dataset.json"
+        "csv": "data/output/current/genesys_elearning_complete_dataset.csv",
+        "json": "data/output/current/genesys_elearning_complete_dataset.json"
       },
       "css_selectors": {
         "description": [
@@ -42,7 +42,7 @@
     "webinars": {
       "name": "Webinars",
       "description": "Live and recorded webinar sessions",
-      "input_file": "webinars_list.txt",
+      "input_file": "data/input/webinars_list.txt",
       "url_base": "https://beyond.genesys.com/explore/webinar/",
       "extraction_settings": {
         "wait_time": 8,
@@ -53,8 +53,8 @@
         "extract_descriptions": true
       },
       "output_files": {
-        "csv": "genesys_webinars_complete_dataset.csv",
-        "json": "genesys_webinars_complete_dataset.json"
+        "csv": "data/output/current/genesys_webinars_complete_dataset.csv",
+        "json": "data/output/current/genesys_webinars_complete_dataset.json"
       },
       "css_selectors": {
         "description": [
@@ -71,7 +71,7 @@
     "self-study": {
       "name": "Self-Study Materials",
       "description": "Self-paced study materials and documentation",
-      "input_file": "self_study_list.txt",
+      "input_file": "data/input/self_study_list.txt",
       "url_base": "https://beyond.genesys.com/explore/study/",
       "extraction_settings": {
         "wait_time": 6,
@@ -82,8 +82,8 @@
         "extract_descriptions": true
       },
       "output_files": {
-        "csv": "genesys_self_study_complete_dataset.csv",
-        "json": "genesys_self_study_complete_dataset.json"
+        "csv": "data/output/current/genesys_self_study_complete_dataset.csv",
+        "json": "data/output/current/genesys_self_study_complete_dataset.json"
       },
       "css_selectors": {
         "description": [
@@ -103,7 +103,7 @@
     }
   },
   "global_settings": {
-    "chrome_driver_path": "./chromedriver.exe",
+    "chrome_driver_path": "drivers/chromedriver.exe",
     "progress_save_interval": 20,
     "max_retries": 3,
     "output_encoding": "utf-8",
@@ -117,8 +117,8 @@
   "combined_output": {
     "create_combined_dataset": true,
     "combined_files": {
-      "csv": "genesys_all_learning_content_dataset.csv",
-      "json": "genesys_all_learning_content_dataset.json"
+      "csv": "data/output/combined/genesys_all_learning_content_dataset.csv",
+      "json": "data/output/combined/genesys_all_learning_content_dataset.json"
     }
   }
 }

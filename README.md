@@ -57,9 +57,9 @@ This project provides a comprehensive, configurable solution for extracting lear
 
 | Content Type | Input File | Status |
 |--------------|------------|--------|
-| **E-Learning** | `elearning_courses_list.txt` | ✅ Complete (142 courses) |
-| **Webinars** | `webinars_list.txt` | 🔄 Template ready |
-| **Self-Study** | `self_study_list.txt` | 🔄 Template ready |
+| **E-Learning** | `data/input/elearning_courses_list.txt` | ✅ Complete (142 courses) |
+| **Webinars** | `data/input/webinars_list.txt` | 🔄 Template ready |
+| **Self-Study** | `data/input/self_study_list.txt` | 🔄 Template ready |
 
 ## 🗂️ Universal Data Schema
 
@@ -78,17 +78,14 @@ All content types use a consistent schema with type-specific adaptations:
 
 ## 🚀 Getting Started
 
-### 1. Universal Extractor
+### 1. Quick Start
 
 ```bash
-# Extract all configured content types
-python universal_genesys_extractor.py
+# Extract all configured content types (currently e-learning)
+python extract.py
 
-# Extract specific content type
-python universal_genesys_extractor.py --types e-learning
-
-# Extract multiple types
-python universal_genesys_extractor.py --types e-learning,webinars
+# Alternative: Use the extractor directly
+python src/universal_genesys_extractor.py
 ```
 
 ### 2. Add New Content Lists
@@ -98,15 +95,15 @@ To add webinars or self-study materials:
 1. **Add titles to the appropriate file:**
    ```
    # For webinars
-   echo "Your Webinar Title" >> webinars_list.txt
+   echo "Your Webinar Title" >> data/input/webinars_list.txt
 
    # For self-study
-   echo "Your Self-Study Title" >> self_study_list.txt
+   echo "Your Self-Study Title" >> data/input/self_study_list.txt
    ```
 
 2. **Run extraction:**
    ```bash
-   python universal_genesys_extractor.py --types webinars
+   python extract.py
    ```
 
 ### 3. Customize Configuration
@@ -117,21 +114,30 @@ Edit `config.json` to modify:
 - Output file names and locations
 - Browser settings
 
-## 📁 Current Output Files
+## 📁 Organized Output Structure
 
-### E-Learning (Completed)
-- **`genesys_elearning_complete_dataset.csv`** - E-learning courses in CSV format
-- **`genesys_elearning_complete_dataset.json`** - E-learning courses in JSON format
+### Current Results (E-Learning Completed)
+```
+data/output/current/
+├── genesys_elearning_complete_dataset.csv    # E-learning CSV
+└── genesys_elearning_complete_dataset.json   # E-learning JSON
+```
 
-### Future Outputs (When Content Added)
-- **`genesys_webinars_complete_dataset.csv`** - Webinars dataset
-- **`genesys_webinars_complete_dataset.json`** - Webinars JSON
-- **`genesys_self_study_complete_dataset.csv`** - Self-study dataset
-- **`genesys_self_study_complete_dataset.json`** - Self-study JSON
+### Future Results (When Content Added)
+```
+data/output/current/
+├── genesys_webinars_complete_dataset.csv     # Webinars CSV
+├── genesys_webinars_complete_dataset.json    # Webinars JSON
+├── genesys_self_study_complete_dataset.csv   # Self-study CSV
+└── genesys_self_study_complete_dataset.json  # Self-study JSON
+```
 
 ### Combined Dataset (Optional)
-- **`genesys_all_learning_content_dataset.csv`** - All content types combined
-- **`genesys_all_learning_content_dataset.json`** - Unified JSON dataset
+```
+data/output/combined/
+├── genesys_all_learning_content_dataset.csv  # All content types
+└── genesys_all_learning_content_dataset.json # Unified JSON
+```
 
 ## 🎯 Target Audience Distribution
 
@@ -188,7 +194,7 @@ import pandas as pd
 import json
 
 # Load e-learning dataset
-elearning_df = pd.read_csv('genesys_elearning_complete_dataset.csv')
+elearning_df = pd.read_csv('data/output/current/genesys_elearning_complete_dataset.csv')
 print(f"E-learning courses: {len(elearning_df)}")
 
 # Filter by target audience
@@ -199,51 +205,69 @@ print(f"Courses for developers: {len(dev_courses)}")
 ### Load Combined Dataset (Future)
 ```python
 # Load all content types
-all_content_df = pd.read_csv('genesys_all_learning_content_dataset.csv')
+all_content_df = pd.read_csv('data/output/combined/genesys_all_learning_content_dataset.csv')
 
 # Group by content type
 by_type = all_content_df.groupby('content_type').size()
 print(by_type)
 ```
 
-## 📂 Project Structure
+## 📂 Organized Project Structure
 
 ```
 genesys_courses/
-├── README.md                                    # This file
-├── config.json                                 # Main configuration
-├── universal_genesys_extractor.py              # Universal extraction script
+├── README.md                          # Main documentation
+├── config.json                        # Central configuration
+├── extract.py                         # Main entry point
+├── requirements.txt                   # Python dependencies
 │
-├── Input Files:
-│   ├── elearning_courses_list.txt              # ✅ E-learning titles (142)
-│   ├── webinars_list.txt                       # 🔄 Webinars template
-│   └── self_study_list.txt                     # 🔄 Self-study template
+├── src/                              # Source code
+│   ├── universal_genesys_extractor.py # Universal extractor
+│   ├── legacy/                       # Legacy scripts (v1.0)
+│   │   ├── full_enhanced_extractor.py
+│   │   ├── merge_complete_dataset.py
+│   │   └── fast_url_generator.py
+│   └── utils/                        # Utility functions (future)
 │
-├── E-Learning Outputs (Current):
-│   ├── genesys_elearning_complete_dataset.csv  # E-learning CSV
-│   ├── genesys_elearning_complete_dataset.json # E-learning JSON
-│   ├── all_142_courses.csv                     # E-learning URLs
-│   └── complete_genesys_courses_dataset.*      # Legacy files
+├── data/                             # All data files
+│   ├── input/                        # Content lists
+│   │   ├── elearning_courses_list.txt  # ✅ 142 courses
+│   │   ├── webinars_list.txt           # 🔄 Template
+│   │   └── self_study_list.txt         # 🔄 Template
+│   ├── output/
+│   │   ├── current/                    # Latest results
+│   │   │   ├── genesys_elearning_complete_dataset.csv
+│   │   │   └── genesys_elearning_complete_dataset.json
+│   │   ├── archives/                   # Previous runs
+│   │   └── combined/                   # Multi-content datasets
+│   └── legacy/                         # Original v1.0 files
+│       ├── all_142_courses.csv
+│       └── complete_genesys_courses_dataset.*
 │
-├── Legacy Scripts (v1.0):
-│   ├── full_enhanced_extractor.py              # Original e-learning extractor
-│   ├── merge_complete_dataset.py               # Dataset merger
-│   └── fast_url_generator.py                   # URL generation
+├── drivers/                          # Browser drivers
+│   ├── chromedriver.exe
+│   └── README.md
 │
-└── System Files:
-    ├── chromedriver.exe                        # Chrome WebDriver
-    ├── CLAUDE.md                              # Development notes
-    └── requirements.txt                        # Python dependencies
+├── docs/                            # Documentation
+│   ├── README.md
+│   ├── CLAUDE.md                    # Development notes
+│   └── README_OLD.md                # Legacy docs
+│
+├── tests/                           # Test files (future)
+├── scripts/                         # Utility scripts (future)
+└── logs/                           # Log files (future)
 ```
 
 ## 🎉 Migration from v1.0
 
 ### What Changed
+- **Messy file structure** → **Professional organized directories**
 - **Single-purpose scripts** → **Universal configurable system**
 - **Separate target audience extractor** → **Fully integrated extraction**
 - **Hardcoded settings** → **JSON configuration**
 - **E-learning only** → **Multi-content type support**
 - **Single output** → **Type-specific outputs + combined**
+- **Root directory clutter** → **Clean separation of code, data, docs**
 
 ### Backward Compatibility
 - All original e-learning data preserved
@@ -270,6 +294,6 @@ This project is for educational and research purposes. Please respect Genesys's 
 
 ---
 
-**Project Version**: 2.1.0 - Unified Universal Extractor
+**Project Version**: 2.2.0 - Organized Universal Extractor
 **Last Updated**: September 2025
-**Current Status**: E-learning complete with integrated target audience extraction, ready for webinars and self-study expansion
+**Current Status**: Professional structure with e-learning complete, integrated target audience extraction, ready for webinars and self-study expansion
