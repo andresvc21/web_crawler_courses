@@ -1,0 +1,14 @@
+# Genesys Webinars List
+#
+# Instructions:
+# 1. Add webinar titles one per line
+# 2. Lines starting with # are comments and will be ignored
+# 3. Empty lines are ignored
+# 4. Each title will be converted to a URL automatically
+#
+# Example format:
+# Genesys Cloud: Advanced Contact Center Management
+# Building Customer Journey Maps with Genesys
+# AI-Powered Customer Experience Best Practices
+#
+# TODO: Add webinar titles when provided

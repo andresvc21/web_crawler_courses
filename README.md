@@ -1,213 +1,267 @@
-# Genesys Cloud Complete Course Dataset
+# Genesys Learning Content Extractor
 
-Comprehensive extraction and processing of all 142 Genesys Cloud e-learning courses with complete information including target audiences, descriptions, durations, and course outlines.
+Universal extraction system for Genesys learning content including e-learning courses, webinars, and self-study materials. Features configurable extraction settings and support for multiple content types with comprehensive target audience identification.
 
 ## 🎯 Project Overview
 
-This project successfully extracts comprehensive information from all 142 Genesys Cloud e-learning courses available on the Beyond Genesys platform using advanced browser automation and pattern recognition. The solution overcomes JavaScript-heavy single-page application challenges to deliver a complete, structured dataset with target audience information.
+This project provides a comprehensive, configurable solution for extracting learning content from the Genesys Beyond platform. The system uses advanced browser automation and pattern recognition to extract structured data from multiple content types with separate, optimized configurations for each type.
 
-## 📊 Final Results
+## ✨ New Features (v2.0)
 
+- **🔧 Configuration-Driven**: JSON-based configuration for easy customization
+- **📚 Multi-Content Support**: E-learning, webinars, and self-study materials
+- **🎯 Type-Specific Outputs**: Separate datasets for each content type
+- **🔄 Combined Datasets**: Optional unified dataset across all content types
+- **⚙️ Flexible Settings**: Customizable extraction parameters per content type
+
+## 📊 Current Results
+
+### E-Learning Courses (Completed)
 - **Total Courses Processed**: 142/142 (100%)
 - **Courses with Target Audience**: 122/142 (85.9%)
 - **Courses with Descriptions**: 129/142 (90.8%)
 - **Courses with Durations**: 129/142 (90.8%)
 - **Courses with Outlines**: 126/142 (88.7%)
-- **Data Quality**: High-quality extraction with footer content filtering
-- **Processing Time**: ~5 hours total execution time
 
-## 📁 Main Deliverables
+### Future Content Types
+- **Webinars**: Ready for extraction (awaiting content list)
+- **Self-Study**: Ready for extraction (awaiting content list)
 
-### Primary Output Files
+## 📁 Configuration System
 
-- **`complete_genesys_courses_dataset.csv`** - Complete dataset ready for analysis
-- **`complete_genesys_courses_dataset.json`** - Structured complete data for programmatic access
+### Main Configuration File: `config.json`
 
-### Source Data
-- **`courses_titles.txt`** - Original list of 142 course titles
-- **`all_142_courses.csv`** - Course titles with generated URLs
-- **`CLAUDE.md`** - Development guidance and project notes
+```json
+{
+  "course_types": {
+    "e-learning": {
+      "name": "E-Learning Courses",
+      "input_file": "elearning_courses_list.txt",
+      "url_base": "https://beyond.genesys.com/explore/course/",
+      "extraction_settings": {
+        "wait_time": 12,
+        "extract_target_audience": true,
+        "extract_duration": true,
+        "extract_course_outline": true
+      },
+      "output_files": {
+        "csv": "genesys_elearning_complete_dataset.csv",
+        "json": "genesys_elearning_complete_dataset.json"
+      }
+    }
+  }
+}
+```
 
-### Core Scripts
-- **`full_enhanced_extractor.py`** - Main course content extraction script
-- **`full_target_audience_extractor.py`** - Target audience extraction script
-- **`merge_complete_dataset.py`** - Final dataset merger
-- **`fast_url_generator.py`** - URL generation from course titles
+### Content Type Input Files
 
-## 🗂️ Complete Data Schema
+| Content Type | Input File | Status |
+|--------------|------------|--------|
+| **E-Learning** | `elearning_courses_list.txt` | ✅ Complete (142 courses) |
+| **Webinars** | `webinars_list.txt` | 🔄 Template ready |
+| **Self-Study** | `self_study_list.txt` | 🔄 Template ready |
 
-The final complete dataset contains the following fields:
+## 🗂️ Universal Data Schema
 
-| Field | Description | Example |
-|-------|-------------|---------|
-| `title` | Course title | "Genesys Cloud: API - Workforce Management" |
-| `url` | Course URL | https://beyond.genesys.com/explore/course/... |
-| `description` | Course description (footer-free) | "This course introduces you to Genesys Cloud..." |
-| `learning_type` | Type of learning | "Elearning" |
-| `duration` | Course duration | "30 mins" |
-| `course_outline` | Course modules/sections | "Introduction; API Basics; Advanced Topics" |
-| `target_audience` | Who should take the course | "Developers; System Administrators" |
+All content types use a consistent schema with type-specific adaptations:
+
+| Field | Description | E-Learning | Webinars | Self-Study |
+|-------|-------------|------------|----------|------------|
+| `title` | Content title | ✅ | ✅ | ✅ |
+| `url` | Content URL | ✅ | ✅ | ✅ |
+| `content_type` | Type identifier | "e-learning" | "webinars" | "self-study" |
+| `description` | Content description | ✅ | ✅ | ✅ |
+| `learning_type` | Learning format | "E-Learning Courses" | "Webinars" | "Self-Study Materials" |
+| `duration` | Content duration | ✅ | ✅ | ⚠️ Optional |
+| `course_outline` | Content structure | ✅ | ⚠️ Optional | ✅ |
+| `target_audience` | Intended audience | ✅ | ✅ | ✅ |
+
+## 🚀 Getting Started
+
+### 1. Universal Extractor
+
+```bash
+# Extract all configured content types
+python universal_genesys_extractor.py
+
+# Extract specific content type
+python universal_genesys_extractor.py --types e-learning
+
+# Extract multiple types
+python universal_genesys_extractor.py --types e-learning,webinars
+```
+
+### 2. Add New Content Lists
+
+To add webinars or self-study materials:
+
+1. **Add titles to the appropriate file:**
+   ```
+   # For webinars
+   echo "Your Webinar Title" >> webinars_list.txt
+
+   # For self-study
+   echo "Your Self-Study Title" >> self_study_list.txt
+   ```
+
+2. **Run extraction:**
+   ```bash
+   python universal_genesys_extractor.py --types webinars
+   ```
+
+### 3. Customize Configuration
+
+Edit `config.json` to modify:
+- Extraction wait times
+- CSS selectors for different content layouts
+- Output file names and locations
+- Browser settings
+
+## 📁 Current Output Files
+
+### E-Learning (Completed)
+- **`genesys_elearning_complete_dataset.csv`** - E-learning courses in CSV format
+- **`genesys_elearning_complete_dataset.json`** - E-learning courses in JSON format
+
+### Future Outputs (When Content Added)
+- **`genesys_webinars_complete_dataset.csv`** - Webinars dataset
+- **`genesys_webinars_complete_dataset.json`** - Webinars JSON
+- **`genesys_self_study_complete_dataset.csv`** - Self-study dataset
+- **`genesys_self_study_complete_dataset.json`** - Self-study JSON
+
+### Combined Dataset (Optional)
+- **`genesys_all_learning_content_dataset.csv`** - All content types combined
+- **`genesys_all_learning_content_dataset.json`** - Unified JSON dataset
 
 ## 🎯 Target Audience Distribution
 
-The dataset includes 10 distinct target audience types:
+The system identifies 10 distinct target audience types across all content:
 
-| Audience | Courses | Description |
-|----------|---------|-------------|
-| **Administrators** | 59 | General system administrators |
-| **System Administrators** | 44 | Technical system administrators |
-| **Supervisors** | 33 | Contact center supervisors |
-| **Business Users** | 32 | End-users and business stakeholders |
-| **Agents** | 31 | Contact center agents |
-| **Developers** | 30 | Software developers and integrators |
-| **Managers** | 23 | Management and leadership roles |
-| **Analysts** | 8 | Business and data analysts |
-| **IT Professionals** | 3 | IT specialists |
-| **Contact Center Managers** | 1 | Contact center management |
+| Audience | E-Learning Courses | Future: Webinars | Future: Self-Study |
+|----------|-------------------|------------------|-------------------|
+| **Administrators** | 59 courses | TBD | TBD |
+| **System Administrators** | 44 courses | TBD | TBD |
+| **Supervisors** | 33 courses | TBD | TBD |
+| **Business Users** | 32 courses | TBD | TBD |
+| **Agents** | 31 courses | TBD | TBD |
+| **Developers** | 30 courses | TBD | TBD |
+| **Managers** | 23 courses | TBD | TBD |
+| **Analysts** | 8 courses | TBD | TBD |
+| **IT Professionals** | 3 courses | TBD | TBD |
+| **Contact Center Managers** | 1 course | TBD | TBD |
 
 ## 🔧 Technical Implementation
 
-### Key Challenges Solved
+### Key Features
 
-1. **JavaScript Rendering** - Used Selenium Chrome WebDriver for SPA handling
-2. **URL Generation** - Created intelligent slug generation from course titles
-3. **Content Quality** - Implemented footer content filtering
-4. **Data Extraction** - Advanced CSS selectors for precise content targeting
-5. **Target Audience Extraction** - Header pattern recognition for audience identification
-6. **Processing Scale** - Optimized for 142 courses with progress tracking
+1. **Configuration-Driven Architecture** - Easy modification without code changes
+2. **Content-Type Specific Extraction** - Optimized settings per content type
+3. **Advanced Pattern Recognition** - Header-based target audience extraction
+4. **Robust Error Handling** - Graceful handling of missing or problematic content
+5. **Progress Tracking** - Intermediate saves and detailed logging
+6. **Flexible Output** - Both individual and combined datasets
 
 ### Architecture
 
 ```
+Configuration (config.json)
+    ↓
+Content Type Detection
+    ↓
+Type-Specific Settings
+    ↓
 Browser Automation (Selenium Chrome)
     ↓
-JavaScript-Rendered Content Extraction
+Content Extraction & Pattern Recognition
     ↓
-BeautifulSoup HTML Parsing
+Type-Specific Output Files
     ↓
-Advanced CSS Selector Targeting
-    ↓
-Footer Content Filtering
-    ↓
-Data Processing & Cleaning
-    ↓
-Structured Output (CSV/JSON)
+Optional Combined Dataset
 ```
-
-### Enhanced Features
-
-- **Target Audience Extraction**: Pattern recognition for audience identification
-- **Learning Type Extraction**: Automatically extracted from course outlines
-- **Duration Parsing**: Smart parsing of time information
-- **Content Cleaning**: Removed website footer and metadata
-- **Progress Tracking**: Intermediate saves every 20 courses
-- **Error Handling**: Robust error handling and recovery
-
-## 🚀 Key Achievements
-
-✅ **100% Course Coverage** - Successfully processed all 142 courses
-✅ **Target Audience Identification** - 85.9% success rate with 10 distinct audience types
-✅ **Quality Data Extraction** - No footer content contamination
-✅ **Smart Content Parsing** - Extracted learning types and durations from course outlines
-✅ **Robust Architecture** - Handled JavaScript rendering and complex SPA structure
-✅ **Clean Output** - Production-ready CSV and JSON formats
-✅ **Complete Dataset** - Descriptions, outlines, durations, and target audiences
-
-## 📈 Data Quality Improvements
-
-### Before vs After
-- **Before**: Footer content extracted ("Genesys empowers more than 8,000 organizations...")
-- **After**: Real course content ("This course introduces you to Genesys Cloud...")
-
-### Enhancements Made
-- Intelligent CSS selector targeting
-- Footer content detection and filtering
-- Learning type extraction from course outlines
-- Duration parsing and standardization
-- Course outline cleaning and structuring
-
-## 🛠️ Requirements
-
-### System Requirements
-- Python 3.8+
-- Chrome Browser
-- ChromeDriver (included in project)
-- Windows/macOS/Linux
-
-### Python Dependencies
-- selenium
-- beautifulsoup4
-- pandas (optional, for data analysis)
-- requests (optional, for additional features)
 
 ## 📖 Usage Examples
 
-### Load Data in Python
+### Load E-Learning Data
 ```python
 import pandas as pd
 import json
 
-# Load complete dataset
-courses_df = pd.read_csv('complete_genesys_courses_dataset.csv')
-print(f"Total courses: {len(courses_df)}")
-
-# Load JSON data
-with open('complete_genesys_courses_dataset.json', 'r') as f:
-    data = json.load(f)
-    courses = data['courses']
+# Load e-learning dataset
+elearning_df = pd.read_csv('genesys_elearning_complete_dataset.csv')
+print(f"E-learning courses: {len(elearning_df)}")
 
 # Filter by target audience
-developers_courses = courses_df[courses_df['target_audience'].str.contains('Developers', na=False)]
-print(f"Courses for developers: {len(developers_courses)}")
+dev_courses = elearning_df[elearning_df['target_audience'].str.contains('Developers', na=False)]
+print(f"Courses for developers: {len(dev_courses)}")
 ```
 
-### Excel Analysis
-Simply open `complete_genesys_courses_dataset.csv` in Excel for immediate analysis, filtering, and visualization with full target audience information.
+### Load Combined Dataset (Future)
+```python
+# Load all content types
+all_content_df = pd.read_csv('genesys_all_learning_content_dataset.csv')
+
+# Group by content type
+by_type = all_content_df.groupby('content_type').size()
+print(by_type)
+```
 
 ## 📂 Project Structure
 
 ```
 genesys_courses/
-├── README.md                                # This file
-├── complete_genesys_courses_dataset.csv    # Complete CSV dataset
-├── complete_genesys_courses_dataset.json   # Complete JSON dataset
-├── courses_titles.txt                      # Original course list
-├── all_142_courses.csv                     # Courses with URLs
-├── full_enhanced_extractor.py              # Main extraction script
-├── full_target_audience_extractor.py       # Target audience extraction
-├── merge_complete_dataset.py               # Dataset merger
-├── fast_url_generator.py                   # URL generation script
-├── chromedriver.exe                        # Chrome WebDriver
-├── CLAUDE.md                              # Development notes
-└── requirements.txt                        # Python dependencies
+├── README.md                                    # This file
+├── config.json                                 # Main configuration
+├── universal_genesys_extractor.py              # Universal extraction script
+│
+├── Input Files:
+│   ├── elearning_courses_list.txt              # ✅ E-learning titles (142)
+│   ├── webinars_list.txt                       # 🔄 Webinars template
+│   └── self_study_list.txt                     # 🔄 Self-study template
+│
+├── E-Learning Outputs (Current):
+│   ├── genesys_elearning_complete_dataset.csv  # E-learning CSV
+│   ├── genesys_elearning_complete_dataset.json # E-learning JSON
+│   ├── all_142_courses.csv                     # E-learning URLs
+│   └── complete_genesys_courses_dataset.*      # Legacy files
+│
+├── Legacy Scripts (v1.0):
+│   ├── full_enhanced_extractor.py              # Original e-learning extractor
+│   ├── full_target_audience_extractor.py       # Target audience extraction
+│   ├── merge_complete_dataset.py               # Dataset merger
+│   └── fast_url_generator.py                   # URL generation
+│
+└── System Files:
+    ├── chromedriver.exe                        # Chrome WebDriver
+    ├── CLAUDE.md                              # Development notes
+    └── requirements.txt                        # Python dependencies
 ```
 
-## 🔍 Sample Data
+## 🎉 Migration from v1.0
 
-```csv
-title,url,description,learning_type,duration,course_outline,target_audience
-"Genesys Cloud: API - Workforce Management","https://beyond.genesys.com/explore/course/genesys-cloud-api-workforce-management","This course introduces you to Genesys Cloud Workforce Management (WFM) features through APIs...","Elearning","30 mins","Introduction to API and Workforce Management; Workforce Management Reports","Developers"
-```
+### What Changed
+- **Single-purpose scripts** → **Universal configurable system**
+- **Hardcoded settings** → **JSON configuration**
+- **E-learning only** → **Multi-content type support**
+- **Single output** → **Type-specific outputs + combined**
 
-## 🎉 Project Success Metrics
+### Backward Compatibility
+- All original e-learning data preserved
+- Legacy scripts maintained for reference
+- Same data quality and extraction accuracy
 
-- **Completeness**: 142/142 courses processed (100%)
-- **Target Audience Coverage**: 122/142 courses with audience data (85.9%)
-- **Data Quality**: Footer content eliminated, real course content extracted
-- **Efficiency**: ~21 seconds average per course including target audience extraction
-- **Reliability**: Robust error handling and recovery
-- **Usability**: Clean CSV/JSON formats with complete information ready for analysis
+## 🚀 Next Steps
 
-## 📝 Development History
+1. **Add Webinars List** - Provide webinar titles in `webinars_list.txt`
+2. **Add Self-Study List** - Provide self-study titles in `self_study_list.txt`
+3. **Run Extraction** - Execute universal extractor for new content types
+4. **Analyze Combined Data** - Use unified dataset for comprehensive analysis
 
-This project evolved through several phases:
-1. **Initial Setup** - Project structure and URL discovery
-2. **Content Extraction** - Browser automation implementation
-3. **Quality Enhancement** - Footer content filtering
-4. **Field Enhancement** - Learning type and duration extraction
-5. **Target Audience Enhancement** - Pattern recognition for audience identification
-6. **Data Integration** - Merging all datasets into complete dataset
-7. **Final Cleanup** - Repository organization and documentation
+## 🛠️ Requirements
+
+- Python 3.8+
+- Chrome Browser
+- ChromeDriver (included)
+- Dependencies: `selenium`, `beautifulsoup4`, `pandas` (optional)
 
 ## 📄 License
 
@@ -215,6 +269,6 @@ This project is for educational and research purposes. Please respect Genesys's 
 
 ---
 
-**Project Completed**: September 2025
-**Total Processing Time**: ~5 hours
-**Final Dataset**: 142 courses, 7 fields including target audiences, complete and production-ready
+**Project Version**: 2.0.0 - Universal Content Extractor
+**Last Updated**: September 2025
+**Current Status**: E-learning complete, ready for webinars and self-study expansion

@@ -1,0 +1,14 @@
+# Genesys Self-Study Materials List
+#
+# Instructions:
+# 1. Add self-study material titles one per line
+# 2. Lines starting with # are comments and will be ignored
+# 3. Empty lines are ignored
+# 4. Each title will be converted to a URL automatically
+#
+# Example format:
+# Genesys Cloud API Reference Guide
+# Contact Center Setup Documentation
+# Workforce Management Best Practices
+#
+# TODO: Add self-study titles when provided
